@@ -1,0 +1,3482 @@
+[
+  {
+    "id": "devtac_1",
+    "title": "SugarCRM Partner Directory",
+    "category_path": "identity",
+    "text_for_embedding": "SugarCRM Partner Directory identity The document details the name of the company DEVTAC CRM INC., a vendor partner within the SugarCRM system. Who is the partner for SugarCRM? What company is associated with SugarCRM? Find the name of the company listed in the SugarCRM partner directory. SugarCRM partner directory, please.",
+    "metadata": {
+      "intent_class": "identity",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "The document details the name of the company DEVTAC CRM INC., a vendor partner within the SugarCRM system.",
+      "key_entities": [
+        "DEVTAC CRM INC."
+      ],
+      "question_variants": [
+        "Who is the partner for SugarCRM?",
+        "What company is associated with SugarCRM?",
+        "Find the name of the company listed in the SugarCRM partner directory.",
+        "SugarCRM partner directory, please."
+      ],
+      "problem_signals": [
+        "Find out who owns SugarCRM",
+        "Know the vendor for the SugarCRM platform"
+      ],
+      "confidence_keywords": [
+        "DEVTAC CRM",
+        "SugarCRM",
+        "partner",
+        "company"
+      ],
+      "source_url": "https://www.sugarcrm.com/partners/devtaccrm/",
+      "confidence": "high",
+      "notes": "Vendor partner directory entry title.",
+      "original_question": "What is the legal company name shown in the SugarCRM partner directory?",
+      "original_answer": "DEVTAC CRM INC."
+    }
+  },
+  {
+    "id": "devtac_2",
+    "title": "Android App Developer Name",
+    "category_path": "identity",
+    "text_for_embedding": "Android App Developer Name identity DEVTAC CRM, INC. is the developer for the Android app 'Frontdesk'. Who developed the Frontdesk app? What is the developer for Frontdesk? Find the developer for Frontdesk app Where can I find the developer for Frontdesk",
+    "metadata": {
+      "intent_class": "identity",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "DEVTAC CRM, INC. is the developer for the Android app 'Frontdesk'.",
+      "key_entities": [
+        "DEVTAC CRM, INC.",
+        "Android app"
+      ],
+      "question_variants": [
+        "Who developed the Frontdesk app?",
+        "What is the developer for Frontdesk?",
+        "Find the developer for Frontdesk app",
+        "Where can I find the developer for Frontdesk"
+      ],
+      "problem_signals": [
+        "Find out who built the Frontdesk app",
+        "I need the developer name for the Frontdesk app",
+        "What is the name of the developer for Frontdesk?",
+        "I need the developer's identity for Frontdesk"
+      ],
+      "confidence_keywords": [
+        "DEVTAC",
+        "CRM",
+        "Inc.",
+        "Android",
+        "App"
+      ],
+      "source_url": "https://play.google.com/store/apps/details?id=com.devtac.frontdesk",
+      "confidence": "high",
+      "notes": "Google Play developer field.",
+      "original_question": "What is the developer name shown for the Android app 'Frontdesk'?",
+      "original_answer": "DEVTAC CRM, INC."
+    }
+  },
+  {
+    "id": "devtac_3",
+    "title": "Devtac Founding Year",
+    "category_path": "history",
+    "text_for_embedding": "Devtac Founding Year history Devtac was established in 2009, marking its initial foray into the [industry/area].  The company’s founding year is 2009, as confirmed by their official company information. When was Devtac founded? What year did Devtac start? Devtac’s founding year? Find the founding year of Devtac",
+    "metadata": {
+      "intent_class": "history",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "Devtac was established in 2009, marking its initial foray into the [industry/area].  The company’s founding year is 2009, as confirmed by their official company information.",
+      "key_entities": [
+        "Devtac",
+        "2009"
+      ],
+      "question_variants": [
+        "When was Devtac founded?",
+        "What year did Devtac start?",
+        "Devtac’s founding year?",
+        "Find the founding year of Devtac"
+      ],
+      "problem_signals": [
+        "I need to know the year of founding.",
+        "Where did Devtac begin?",
+        "I’m researching the founding date of Devtac.",
+        "I’m looking for the year Devtac was founded"
+      ],
+      "confidence_keywords": [
+        "2009"
+      ],
+      "source_url": "https://devtac.com/; https://ph.linkedin.com/company/devtaccx",
+      "confidence": "high",
+      "notes": "Stated on Devtac website FAQ and LinkedIn company page.",
+      "original_question": "In what year was Devtac founded?",
+      "original_answer": "2009"
+    }
+  },
+  {
+    "id": "devtac_4",
+    "title": "Devtac Industry",
+    "category_path": "identity",
+    "text_for_embedding": "Devtac Industry identity Devtac is a software development company, primarily focusing on [briefly state focus, e.g., web development, mobile app development]. What industry does Devtac operate in? What industry does Devtac focus on? What industry does Devtac specialize in?",
+    "metadata": {
+      "intent_class": "factual",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "Devtac is a software development company, primarily focusing on [briefly state focus, e.g., web development, mobile app development].",
+      "key_entities": [
+        "Devtac",
+        "Software Development"
+      ],
+      "question_variants": [
+        "What industry does Devtac operate in?",
+        "What industry does Devtac focus on?",
+        "What industry does Devtac specialize in?"
+      ],
+      "problem_signals": [
+        "Find out the industry of a company",
+        "What sector does Devtac work in?"
+      ],
+      "confidence_keywords": [
+        "Devtac",
+        "industry",
+        "software",
+        "development"
+      ],
+      "source_url": "https://ph.linkedin.com/company/devtaccx",
+      "confidence": "high",
+      "notes": "LinkedIn 'Industry' field.",
+      "original_question": "What industry is listed for Devtac on LinkedIn?",
+      "original_answer": "Software Development"
+    }
+  },
+  {
+    "id": "devtac_5",
+    "title": "LinkedIn Company Type",
+    "category_path": "identity",
+    "text_for_embedding": "LinkedIn Company Type identity According to LinkedIn, Devtac is a privately held company. What is Devtac’s company type? What type of company is Devtac? Who is Devtac as a company? What’s Devtac’s legal structure?",
+    "metadata": {
+      "intent_class": "identity",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "According to LinkedIn, Devtac is a privately held company.",
+      "key_entities": [
+        "Devtac",
+        "LinkedIn"
+      ],
+      "question_variants": [
+        "What is Devtac’s company type?",
+        "What type of company is Devtac?",
+        "Who is Devtac as a company?",
+        "What’s Devtac’s legal structure?"
+      ],
+      "problem_signals": [
+        "Find out who owns Devtac",
+        "Understand Devtac’s business structure",
+        "Get company information for Devtac"
+      ],
+      "confidence_keywords": [
+        "LinkedIn",
+        "Private Held"
+      ],
+      "source_url": "https://ph.linkedin.com/company/devtaccx",
+      "confidence": "high",
+      "notes": "LinkedIn 'Type' field.",
+      "original_question": "What company type is listed on LinkedIn for Devtac?",
+      "original_answer": "Privately Held"
+    }
+  },
+  {
+    "id": "devtac_6",
+    "title": "LinkedIn Company Size",
+    "category_path": "people",
+    "text_for_embedding": "LinkedIn Company Size people The LinkedIn company size range for Devtac is typically between 11 and 50 employees. What is the company size of Devtac? What’s Devtac’s size on LinkedIn? Devtac employee count LinkedIn Find Devtac company size on LinkedIn",
+    "metadata": {
+      "intent_class": "factual",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "The LinkedIn company size range for Devtac is typically between 11 and 50 employees.",
+      "key_entities": [
+        "Devtac"
+      ],
+      "question_variants": [
+        "What is the company size of Devtac?",
+        "What’s Devtac’s size on LinkedIn?",
+        "Devtac employee count LinkedIn",
+        "Find Devtac company size on LinkedIn"
+      ],
+      "problem_signals": [
+        "Company size information",
+        "Devtac employee numbers",
+        "Find company details"
+      ],
+      "confidence_keywords": [
+        "company size",
+        "Devtac",
+        "employee count"
+      ],
+      "source_url": "https://ph.linkedin.com/company/devtaccx",
+      "confidence": "medium",
+      "notes": "LinkedIn company-size band; can change over time.",
+      "original_question": "What is the company size range listed on LinkedIn for Devtac?",
+      "original_answer": "11-50 employees"
+    }
+  },
+  {
+    "id": "devtac_7",
+    "title": "Devtac�s Headquarters Location",
+    "category_path": "location",
+    "text_for_embedding": "Devtac�s Headquarters Location location Tacloban City, Leyte is the location of the Devtac� office. Where is the Devtac� office located? Devtac� headquarters address Devtac� office address Devtac� headquarter location",
+    "metadata": {
+      "intent_class": "location",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "Tacloban City, Leyte is the location of the Devtac� office.",
+      "key_entities": [
+        "Devtac�",
+        "Tacloban",
+        "Leyte"
+      ],
+      "question_variants": [
+        "Where is the Devtac� office located?",
+        "Devtac� headquarters address",
+        "Devtac� office address",
+        "Devtac� headquarter location"
+      ],
+      "problem_signals": [
+        "find Devtac�'s office address",
+        "locate the Devtac� headquarters",
+        "where is the Devtac� office located?",
+        "find the location of the Devtac� office"
+      ],
+      "confidence_keywords": [
+        "Tacloban",
+        "Leyte",
+        "location",
+        "headquarters"
+      ],
+      "source_url": "https://ph.linkedin.com/company/devtaccx",
+      "confidence": "high",
+      "notes": "LinkedIn 'Headquarters' field.",
+      "original_question": "What is Devtac�s headquarters location listed on LinkedIn?",
+      "original_answer": "Tacloban City, Leyte"
+    }
+  },
+  {
+    "id": "devtac_8",
+    "title": "LinkedIn Address",
+    "category_path": "location",
+    "text_for_embedding": "LinkedIn Address location The primary street address for Devtac listed on LinkedIn is 166 Avenida Veteranos, Downtown, Tacloban City, Leyte 6500, Philippines. Devtac address Tacloban Philippines address where is Devtac located? Devtac main address",
+    "metadata": {
+      "intent_class": "location",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "The primary street address for Devtac listed on LinkedIn is 166 Avenida Veteranos, Downtown, Tacloban City, Leyte 6500, Philippines.",
+      "key_entities": [
+        "Devtac",
+        "LinkedIn",
+        "Tacloban City",
+        "Leyte"
+      ],
+      "question_variants": [
+        "Devtac address",
+        "Tacloban Philippines address",
+        "where is Devtac located?",
+        "Devtac main address"
+      ],
+      "problem_signals": [
+        "find Devtac's physical location",
+        "get Devtac's address",
+        "verify Devtac's address"
+      ],
+      "confidence_keywords": [
+        "address",
+        "location",
+        "Tacloban",
+        "Philippines"
+      ],
+      "source_url": "https://ph.linkedin.com/company/devtaccx",
+      "confidence": "high",
+      "notes": "LinkedIn 'Primary location' address.",
+      "original_question": "What is the primary street address listed on LinkedIn for Devtac?",
+      "original_answer": "166 Avenida Veteranos, Downtown, 2F, Tacloban City, Leyte 6500, Philippines"
+    }
+  },
+  {
+    "id": "devtac_9",
+    "title": "Tacloban Address",
+    "category_path": "location",
+    "text_for_embedding": "Tacloban Address location The Devtac website footer displays the address for the contact point in Tacloban, Leyte, located at 166 Avenida Veteranos, Downtown. Where is the contact address for Devtac? What's the address for the Tacloban Devtac contact? Tacloban Devtac contact details",
+    "metadata": {
+      "intent_class": "location",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "The Devtac website footer displays the address for the contact point in Tacloban, Leyte, located at 166 Avenida Veteranos, Downtown.",
+      "key_entities": [
+        "Devtac",
+        "Tacloban",
+        "Avenida Veteranos",
+        "Leyte"
+      ],
+      "question_variants": [
+        "Where is the contact address for Devtac?",
+        "What's the address for the Tacloban Devtac contact?",
+        "Tacloban Devtac contact details"
+      ],
+      "problem_signals": [
+        "find address",
+        "address for Devtac",
+        "contact information Tacloban"
+      ],
+      "confidence_keywords": [
+        "Tacloban",
+        "address",
+        "Devtac",
+        "contact"
+      ],
+      "source_url": "https://devtac.com/contact-us/",
+      "confidence": "high",
+      "notes": "Company website contact footer.",
+      "original_question": "What address is shown in the Devtac website footer contact block (Tacloban)?",
+      "original_answer": "166 Avenida Veteranos, Downtown, Tacloban City, Leyte"
+    }
+  },
+  {
+    "id": "devtac_10",
+    "title": "Devtac Homepage Phone Number",
+    "category_path": "contact",
+    "text_for_embedding": "Devtac Homepage Phone Number contact The provided answer is the phone number displayed at the top of the Devtac homepage, located at +63 954 166 0777. What is the phone number for Devtac? Where can I find the phone number on the Devtac homepage? Devtac homepage phone number Find the phone number for the Devtac website",
+    "metadata": {
+      "intent_class": "contact",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "The provided answer is the phone number displayed at the top of the Devtac homepage, located at +63 954 166 0777.",
+      "key_entities": [
+        "Devtac",
+        "phone number",
+        "+63 954 166 0777"
+      ],
+      "question_variants": [
+        "What is the phone number for Devtac?",
+        "Where can I find the phone number on the Devtac homepage?",
+        "Devtac homepage phone number",
+        "Find the phone number for the Devtac website"
+      ],
+      "problem_signals": [
+        "find phone number",
+        "Devtac website",
+        "urgent phone number"
+      ],
+      "confidence_keywords": [
+        "Devtac",
+        "phone number",
+        "954 166 0777"
+      ],
+      "source_url": "https://devtac.com/",
+      "confidence": "high",
+      "notes": "Homepage header.",
+      "original_question": "What phone number is shown at the top of the Devtac homepage?",
+      "original_answer": "+63 954 166 0777"
+    }
+  },
+  {
+    "id": "devtac_11",
+    "title": "Devtac Homepage Email",
+    "category_path": "contact",
+    "text_for_embedding": "Devtac Homepage Email contact The email address for the Devtac homepage is info@devtac.com. What is the email for the Devtac homepage? Where can I find the Devtac email address? I need the email for the Devtac website.",
+    "metadata": {
+      "intent_class": "contact",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "explanation",
+      "solution_summary": "The email address for the Devtac homepage is info@devtac.com.",
+      "key_entities": [
+        "Devtac",
+        "info@devtac.com"
+      ],
+      "question_variants": [
+        "What is the email for the Devtac homepage?",
+        "Where can I find the Devtac email address?",
+        "I need the email for the Devtac website."
+      ],
+      "problem_signals": [
+        "find website email"
+      ],
+      "confidence_keywords": [
+        "devtac",
+        "email",
+        "website"
+      ],
+      "source_url": "https://devtac.com/",
+      "confidence": "high",
+      "notes": "Homepage header.",
+      "original_question": "What email is shown at the top of the Devtac homepage?",
+      "original_answer": "info@devtac.com"
+    }
+  },
+  {
+    "id": "devtac_12",
+    "title": "Devtac� Contact Information",
+    "category_path": "contact",
+    "text_for_embedding": "Devtac� Contact Information contact The provided answer indicates the phone number for Devtac� is +63 954 166 0777. Devtac� phone number find devtac� phone Devtac� contact number what is the phone number for Devtac�",
+    "metadata": {
+      "intent_class": "contact",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "The provided answer indicates the phone number for Devtac� is +63 954 166 0777.",
+      "key_entities": [
+        "Devtac�",
+        "contact",
+        "phone number"
+      ],
+      "question_variants": [
+        "Devtac� phone number",
+        "find devtac� phone",
+        "Devtac� contact number",
+        "what is the phone number for Devtac�"
+      ],
+      "problem_signals": [
+        "find phone number",
+        "get devtac� phone number",
+        "know devtac� contact",
+        "find devtac� number"
+      ],
+      "confidence_keywords": [
+        "devtac�",
+        "phone number",
+        "contact",
+        "number"
+      ],
+      "source_url": "https://devtac.com/contact-us/",
+      "confidence": "high",
+      "notes": "Footer contact block.",
+      "original_question": "What phone number is shown in the footer on Devtac�s contact page?",
+      "original_answer": "+63 954 166 0777"
+    }
+  },
+  {
+    "id": "devtac_13",
+    "title": "Devtac's Business Hours",
+    "category_path": "contact",
+    "text_for_embedding": "Devtac's Business Hours contact Devtac's business hours are Monday to Friday, 8:00 AM to 5:00 PM. This information is available on their contact page. Devtac operating hours Devtac business hours schedule when is Devtac open? Devtac contact page hours",
+    "metadata": {
+      "intent_class": "factual",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "Devtac's business hours are Monday to Friday, 8:00 AM to 5:00 PM. This information is available on their contact page.",
+      "key_entities": [
+        "Devtac",
+        "business hours",
+        "contact page"
+      ],
+      "question_variants": [
+        "Devtac operating hours",
+        "Devtac business hours schedule",
+        "when is Devtac open?",
+        "Devtac contact page hours"
+      ],
+      "problem_signals": [
+        "I need to know when Devtac is available",
+        "I need the business hours for Devtac",
+        "Where can I find Devtac's hours?"
+      ],
+      "confidence_keywords": [
+        "Devtac",
+        "business hours",
+        "open",
+        "schedule"
+      ],
+      "source_url": "https://devtac.com/contact-us/",
+      "confidence": "high",
+      "notes": "FAQ/footer indicates days/hours.",
+      "original_question": "What are Devtac�s published business hours on the contact page?",
+      "original_answer": "Monday to Friday, 8:00 AM � 5:00 PM"
+    }
+  },
+  {
+    "id": "devtac_14",
+    "title": "Timezone for Business Hours",
+    "category_path": "contact",
+    "text_for_embedding": "Timezone for Business Hours contact Devtac refers to Philippine Standard Time for its business hours. What time does Devtac operate? Devtac business hours When does Devtac work?",
+    "metadata": {
+      "intent_class": "factual",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "Devtac refers to Philippine Standard Time for its business hours.",
+      "key_entities": [
+        "Devtac",
+        "business hours",
+        "Philippine Standard Time"
+      ],
+      "question_variants": [
+        "What time does Devtac operate?",
+        "Devtac business hours",
+        "When does Devtac work?"
+      ],
+      "problem_signals": [
+        "business hours",
+        "Devtac hours",
+        "timezone"
+      ],
+      "confidence_keywords": [
+        "Devtac",
+        "business hours",
+        "timezone",
+        "Philippine Standard Time"
+      ],
+      "source_url": "https://devtac.com/contact-us/",
+      "confidence": "high",
+      "notes": "Stated in FAQ area.",
+      "original_question": "What timezone does Devtac reference for business hours on the contact page?",
+      "original_answer": "Philippine Standard Time"
+    }
+  },
+  {
+    "id": "devtac_15",
+    "title": "Devtac Contact",
+    "category_path": "web_presence",
+    "text_for_embedding": "Devtac Contact web_presence Devtac provides contact information for their organization. The URL for their contact page is provided. where can i find devtac's contact? devtac’s contact information devtac contact url",
+    "metadata": {
+      "intent_class": "web_presence",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "web_url",
+      "solution_summary": "Devtac provides contact information for their organization. The URL for their contact page is provided.",
+      "key_entities": [
+        "Devtac",
+        "contact",
+        "web_presence"
+      ],
+      "question_variants": [
+        "where can i find devtac's contact?",
+        "devtac’s contact information",
+        "devtac contact url"
+      ],
+      "problem_signals": [
+        "find devtac's contact",
+        "get devtac's contact",
+        "devtac's contact details"
+      ],
+      "confidence_keywords": [
+        "devtac",
+        "contact",
+        "url",
+        "web"
+      ],
+      "source_url": "https://devtac.com/contact-us/",
+      "confidence": "high",
+      "notes": "Direct page URL.",
+      "original_question": "What is the URL of Devtac�s contact page?",
+      "original_answer": "https://devtac.com/contact-us/"
+    }
+  },
+  {
+    "id": "devtac_16",
+    "title": "Devtac Career Page URL",
+    "category_path": "web_presence",
+    "text_for_embedding": "Devtac Career Page URL web_presence The provided answer directs to the official careers page for Devtac, a company offering employment opportunities. Devtac careers devtac jobs where can i find devtac jobs devtac career page",
+    "metadata": {
+      "intent_class": "web_presence",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "web_url",
+      "solution_summary": "The provided answer directs to the official careers page for Devtac, a company offering employment opportunities.",
+      "key_entities": [
+        "Devtac",
+        "careers page"
+      ],
+      "question_variants": [
+        "Devtac careers",
+        "devtac jobs",
+        "where can i find devtac jobs",
+        "devtac career page"
+      ],
+      "problem_signals": [
+        "find job openings",
+        "get jobs",
+        "careers page location"
+      ],
+      "confidence_keywords": [
+        "devtac"
+      ],
+      "source_url": "https://devtac.com/career/",
+      "confidence": "high",
+      "notes": "Direct page URL.",
+      "original_question": "What is the URL of Devtac�s careers page?",
+      "original_answer": "https://devtac.com/career/"
+    }
+  },
+  {
+    "id": "devtac_17",
+    "title": "Zoho Recruit Application Links",
+    "category_path": "web_presence",
+    "text_for_embedding": "Zoho Recruit Application Links web_presence Devtac provides application links for its jobs. The website is located at devtac.zohorecruit.com. where can i find the application links for devtac? what is the link for applying jobs at devtac? exactly? devtac job application website? do you have job application links for devtac?",
+    "metadata": {
+      "intent_class": "web_presence",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "web_url",
+      "solution_summary": "Devtac provides application links for its jobs. The website is located at devtac.zohorecruit.com.",
+      "key_entities": [
+        "devtac",
+        "zoho recruit"
+      ],
+      "question_variants": [
+        "where can i find the application links for devtac?",
+        "what is the link for applying jobs at devtac? exactly?",
+        "devtac job application website?",
+        "do you have job application links for devtac?"
+      ],
+      "problem_signals": [
+        "job applications",
+        "find application links",
+        "apply now",
+        "job postings"
+      ],
+      "confidence_keywords": [
+        "devtac",
+        "apply now",
+        "job link",
+        "zoho recruit"
+      ],
+      "source_url": "https://devtac.com/career/",
+      "confidence": "high",
+      "notes": "Apply Now buttons point to Zoho Recruit domain.",
+      "original_question": "What domain is used for Devtac job applications (Apply Now links)?",
+      "original_answer": "devtac.zohorecruit.com"
+    }
+  },
+  {
+    "id": "devtac_18",
+    "title": "Devtac Customer Support Portal Link",
+    "category_path": "web_presence",
+    "text_for_embedding": "Devtac Customer Support Portal Link web_presence The website includes a link to the Devtac customer support portal, accessible at support.devtac.asia. where can i find the devtac customer support link? what is the link for devtac customer support? tell me the web address for devtac support",
+    "metadata": {
+      "intent_class": "web_presence",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "web_presence",
+      "solution_summary": "The website includes a link to the Devtac customer support portal, accessible at support.devtac.asia.",
+      "key_entities": [
+        "Devtac",
+        "customer support portal",
+        "support.devtac.asia"
+      ],
+      "question_variants": [
+        "where can i find the devtac customer support link?",
+        "what is the link for devtac customer support?",
+        "tell me the web address for devtac support"
+      ],
+      "problem_signals": [
+        "find web address",
+        "link to support",
+        "need web page"
+      ],
+      "confidence_keywords": [
+        "devtac",
+        "support",
+        "portal",
+        "link"
+      ],
+      "source_url": "https://devtac.com/; https://devtac.com/contact-us/",
+      "confidence": "high",
+      "notes": "�Customer Support� link label.",
+      "original_question": "What domain is used for Devtac�s customer support portal link on the website?",
+      "original_answer": "support.devtac.asia"
+    }
+  },
+  {
+    "id": "devtac_19",
+    "title": "Zoho Premium Partner Tier",
+    "category_path": "partnerships",
+    "text_for_embedding": "Zoho Premium Partner Tier partnerships Devtac�s website states that they offer Zoho Premium Partner as a specific partner tier. What is Zoho Premium Partner? Zoho partner tier name Devtac�s partner tier Zoho premium tier details",
+    "metadata": {
+      "intent_class": "partnerships",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "Devtac�s website states that they offer Zoho Premium Partner as a specific partner tier.",
+      "key_entities": [
+        "Zoho",
+        "Premium Partner",
+        "Devtac�s"
+      ],
+      "question_variants": [
+        "What is Zoho Premium Partner?",
+        "Zoho partner tier name",
+        "Devtac�s partner tier",
+        "Zoho premium tier details"
+      ],
+      "problem_signals": [
+        "I need to know the specific partner tier Zoho offers.",
+        "Can you tell me the premium tier they offer?",
+        "What is the Zoho partner tier level?"
+      ],
+      "confidence_keywords": [
+        "Zoho",
+        "Premium",
+        "Partner",
+        "Tier"
+      ],
+      "source_url": "https://devtac.com/",
+      "confidence": "high",
+      "notes": "Homepage claim.",
+      "original_question": "According to Devtac�s website, what Zoho partner tier do they claim?",
+      "original_answer": "Zoho Premium Partner"
+    }
+  },
+  {
+    "id": "devtac_20",
+    "title": "Zoho Premium Partner Status",
+    "category_path": "partnerships",
+    "text_for_embedding": "Zoho Premium Partner Status partnerships Devtac is the sole Zoho Premium Partner in the Philippines, according to their public statements. Does Devtac have any other Zoho Premium partners in the Philippines? Is Devtac the only Zoho Premium partner in the Philippines? What is Devtac’s partnership status in the Philippines? Can you verify Devtac’s Zoho Premium partnership in the Philippines?",
+    "metadata": {
+      "intent_class": "partnerships",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "Devtac is the sole Zoho Premium Partner in the Philippines, according to their public statements.",
+      "key_entities": [
+        "Devtac",
+        "Zoho Premium Partner",
+        "Philippines"
+      ],
+      "question_variants": [
+        "Does Devtac have any other Zoho Premium partners in the Philippines?",
+        "Is Devtac the only Zoho Premium partner in the Philippines?",
+        "What is Devtac’s partnership status in the Philippines?",
+        "Can you verify Devtac’s Zoho Premium partnership in the Philippines?"
+      ],
+      "problem_signals": [
+        "Zoho Premium Partner",
+        "Philippines",
+        "Exclusive Partner",
+        "Find Zoho Partner"
+      ],
+      "confidence_keywords": [
+        "Devtac",
+        "Zoho Premium",
+        "Philippines",
+        "Partner"
+      ],
+      "source_url": "https://devtac.com/; https://ph.linkedin.com/company/devtaccx",
+      "confidence": "high",
+      "notes": "Stated on homepage and LinkedIn about blurb.",
+      "original_question": "Does Devtac claim to be the only Zoho Premium Partner in the Philippines?",
+      "original_answer": "Yes"
+    }
+  },
+  {
+    "id": "devtac_21",
+    "title": "LinkedIn About Us - Devtac",
+    "category_path": "partnerships",
+    "text_for_embedding": "LinkedIn About Us - Devtac partnerships LinkedIn’s about page details Devtac’s partnership with SugarCRM. Does LinkedIn mention SugarCRM? What does LinkedIn say about Devtac and SugarCRM? Can you tell me if LinkedIn describes Devtac as a partner with SugarCRM?",
+    "metadata": {
+      "intent_class": "partnerships",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "LinkedIn’s about page details Devtac’s partnership with SugarCRM.",
+      "key_entities": [
+        "LinkedIn",
+        "Devtac",
+        "SugarCRM"
+      ],
+      "question_variants": [
+        "Does LinkedIn mention SugarCRM?",
+        "What does LinkedIn say about Devtac and SugarCRM?",
+        "Can you tell me if LinkedIn describes Devtac as a partner with SugarCRM?"
+      ],
+      "problem_signals": [
+        "LinkedIn partner details",
+        "SugarCRM partnership",
+        "Devtac SugarCRM connection"
+      ],
+      "confidence_keywords": [
+        "LinkedIn",
+        "Devtac",
+        "SugarCRM",
+        "partner"
+      ],
+      "source_url": "https://ph.linkedin.com/company/devtaccx",
+      "confidence": "high",
+      "notes": "LinkedIn about blurb.",
+      "original_question": "Does LinkedIn 'About us' describe Devtac as a certified SugarCRM partner?",
+      "original_answer": "Yes"
+    }
+  },
+  {
+    "id": "devtac_22",
+    "title": "LinkedIn About Us - Devtac",
+    "category_path": "partnerships",
+    "text_for_embedding": "LinkedIn About Us - Devtac partnerships LinkedIn’s about page describes Devtac as a provider of SuiteCRM. Does LinkedIn Devtac provide SuiteCRM? What does LinkedIn about Devtac say? Can you tell me about Devtac on LinkedIn? What services does Devtac offer via LinkedIn?",
+    "metadata": {
+      "intent_class": "partnerships",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "LinkedIn’s about page describes Devtac as a provider of SuiteCRM.",
+      "key_entities": [
+        "LinkedIn",
+        "Devtac",
+        "SuiteCRM"
+      ],
+      "question_variants": [
+        "Does LinkedIn Devtac provide SuiteCRM?",
+        "What does LinkedIn about Devtac say?",
+        "Can you tell me about Devtac on LinkedIn?",
+        "What services does Devtac offer via LinkedIn?"
+      ],
+      "problem_signals": [
+        "SuiteCRM",
+        "LinkedIn",
+        "Devtac",
+        "About Us"
+      ],
+      "confidence_keywords": [
+        "LinkedIn",
+        "Devtac",
+        "SuiteCRM",
+        "About Us"
+      ],
+      "source_url": "https://ph.linkedin.com/company/devtaccx",
+      "confidence": "high",
+      "notes": "LinkedIn about blurb.",
+      "original_question": "Does LinkedIn 'About us' describe Devtac as a leading provider of SuiteCRM?",
+      "original_answer": "Yes"
+    }
+  },
+  {
+    "id": "devtac_23",
+    "title": "Devtac� Exclusive Partner",
+    "category_path": "partnerships",
+    "text_for_embedding": "Devtac� Exclusive Partner partnerships Devtac� is the exclusive partner of SuiteCRM in the country. What is Devtac�’s relationship with SuiteCRM? Does Devtac� have a partnership with SuiteCRM? Is Devtac� exclusive to SuiteCRM in the country?",
+    "metadata": {
+      "intent_class": "partnerships",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "Devtac� is the exclusive partner of SuiteCRM in the country.",
+      "key_entities": [
+        "Devtac�",
+        "SuiteCRM"
+      ],
+      "question_variants": [
+        "What is Devtac�’s relationship with SuiteCRM?",
+        "Does Devtac� have a partnership with SuiteCRM?",
+        "Is Devtac� exclusive to SuiteCRM in the country?"
+      ],
+      "problem_signals": [
+        "Find out about Devtac�’s partnership with SuiteCRM",
+        "Confirm Devtac�’s role with SuiteCRM"
+      ],
+      "confidence_keywords": [
+        "partner",
+        "exclusive",
+        "relationship",
+        "Devtac�"
+      ],
+      "source_url": "https://devtac.com/",
+      "confidence": "high",
+      "notes": "Homepage FAQ text.",
+      "original_question": "Does Devtac�s site state it is the exclusive partner of SuiteCRM in the country?",
+      "original_answer": "Yes"
+    }
+  },
+  {
+    "id": "devtac_24",
+    "title": "DEVTAC CRM INC. Certification",
+    "category_path": "partnerships",
+    "text_for_embedding": "DEVTAC CRM INC. Certification partnerships DEVTAC CRM INC. is a certified Sugar Partner on SugarCRM, indicating their adherence to Sugar’s standards for integration and data management. Does DEVTAC CRM INC. work with SugarCRM? Is DEVTAC CRM INC. a Sugar Partner? Is DEVTAC CRM INC. certified by SugarCRM?",
+    "metadata": {
+      "intent_class": "partnerships",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "DEVTAC CRM INC. is a certified Sugar Partner on SugarCRM, indicating their adherence to Sugar’s standards for integration and data management.",
+      "key_entities": [
+        "DEVTAC CRM INC",
+        "SugarCRM",
+        "Sugar Partner"
+      ],
+      "question_variants": [
+        "Does DEVTAC CRM INC. work with SugarCRM?",
+        "Is DEVTAC CRM INC. a Sugar Partner?",
+        "Is DEVTAC CRM INC. certified by SugarCRM?"
+      ],
+      "problem_signals": [
+        "SugarCRM integration",
+        "Data management",
+        "Partner status",
+        "Compliance"
+      ],
+      "confidence_keywords": [
+        "DEVTAC",
+        "CRM",
+        "SugarCRM",
+        "Certified"
+      ],
+      "source_url": "https://www.sugarcrm.com/partners/devtaccrm/",
+      "confidence": "high",
+      "notes": "Sugar partner directory entry.",
+      "original_question": "Is DEVTAC CRM INC. listed as a certified Sugar Partner on SugarCRM�s site?",
+      "original_answer": "Yes"
+    }
+  },
+  {
+    "id": "devtac_25",
+    "title": "Devtac CRM Contact Details",
+    "category_path": "contact",
+    "text_for_embedding": "Devtac CRM Contact Details contact The answer provides the email address for DEVTAC CRM INC., which is info@devtac.ph, based on a SugarCRM partner directory. What's the email for DEVTAC CRM? DEVTAC CRM contact email Where can I find DEVTAC CRM's email?",
+    "metadata": {
+      "intent_class": "contact",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "explanation",
+      "solution_summary": "The answer provides the email address for DEVTAC CRM INC., which is info@devtac.ph, based on a SugarCRM partner directory.",
+      "key_entities": [
+        "Devtac CRM INC.",
+        "SugarCRM",
+        "partner directory"
+      ],
+      "question_variants": [
+        "What's the email for DEVTAC CRM?",
+        "DEVTAC CRM contact email",
+        "Where can I find DEVTAC CRM's email?"
+      ],
+      "problem_signals": [
+        "find email",
+        "DEVTAC CRM address",
+        "email for company"
+      ],
+      "confidence_keywords": [
+        "devtac",
+        "crm",
+        "email",
+        "contact"
+      ],
+      "source_url": "https://www.sugarcrm.com/partners/devtaccrm/",
+      "confidence": "high",
+      "notes": "Sugar partner directory contact section.",
+      "original_question": "What email is listed for DEVTAC CRM INC. on the SugarCRM partner directory?",
+      "original_answer": "info@devtac.ph"
+    }
+  },
+  {
+    "id": "devtac_26",
+    "title": "SugarCRM Partner Directory - DEVTAC CRM INC.",
+    "category_path": "contact",
+    "text_for_embedding": "SugarCRM Partner Directory - DEVTAC CRM INC. contact The provided answer details the contact information for DEVTAC CRM INC., specifically referencing their presence on the SugarCRM partner directory. find DEVTAC CRM contact where is DEVTAC CRM listed on SugarCRM? DEVTAC CRM partner directory contact",
+    "metadata": {
+      "intent_class": "contact",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "contact",
+      "solution_summary": "The provided answer details the contact information for DEVTAC CRM INC., specifically referencing their presence on the SugarCRM partner directory.",
+      "key_entities": [
+        "DEVTAC CRM INC.",
+        "SugarCRM",
+        "partner directory"
+      ],
+      "question_variants": [
+        "find DEVTAC CRM contact",
+        "where is DEVTAC CRM listed on SugarCRM?",
+        "DEVTAC CRM partner directory contact"
+      ],
+      "problem_signals": [
+        "need contact details",
+        "SugarCRM integration",
+        "DEVTAC CRM location"
+      ],
+      "confidence_keywords": [
+        "contact",
+        "DEVTAC CRM",
+        "SugarCRM",
+        "partner directory"
+      ],
+      "source_url": "https://www.sugarcrm.com/partners/devtaccrm/",
+      "confidence": "high",
+      "notes": "Sugar partner directory contact section.",
+      "original_question": "What phone is listed for DEVTAC CRM INC. on the SugarCRM partner directory?",
+      "original_answer": "+639177948226"
+    }
+  },
+  {
+    "id": "devtac_27",
+    "title": "SugarCRM Partner Directory",
+    "category_path": "web_presence",
+    "text_for_embedding": "SugarCRM Partner Directory web_presence The SugarCRM partner directory lists the websites associated with DEVTAC CRM INC., providing information about their integration with the platform. Where can I find DEVTAC CRM? DEVTAC CRM’s partner website? List the websites for DEVTAC CRM",
+    "metadata": {
+      "intent_class": "web_presence",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "list",
+      "solution_summary": "The SugarCRM partner directory lists the websites associated with DEVTAC CRM INC., providing information about their integration with the platform.",
+      "key_entities": [
+        "DEVTAC CRM INC.",
+        "SugarCRM",
+        "partner directory"
+      ],
+      "question_variants": [
+        "Where can I find DEVTAC CRM?",
+        "DEVTAC CRM’s partner website?",
+        "List the websites for DEVTAC CRM"
+      ],
+      "problem_signals": [
+        "find DEVTAC CRM's partner site",
+        "get DEVTAC CRM partner information"
+      ],
+      "confidence_keywords": [
+        "devtac",
+        "crm",
+        "sugarcrm",
+        "partner"
+      ],
+      "source_url": "https://www.sugarcrm.com/partners/devtaccrm/",
+      "confidence": "high",
+      "notes": "Sugar partner directory website field.",
+      "original_question": "What website is listed for DEVTAC CRM INC. on the SugarCRM partner directory?",
+      "original_answer": "http://www.devtac.asia"
+    }
+  },
+  {
+    "id": "devtac_28",
+    "title": "SugarCRM Headquarters Location",
+    "category_path": "location",
+    "text_for_embedding": "SugarCRM Headquarters Location location The SugarCRM partner directory indicates the headquarters location is the Philippines. Where is the headquarters of SugarCRM? What is the location of the SugarCRM headquarters? What country is the headquarters in?",
+    "metadata": {
+      "intent_class": "location",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "The SugarCRM partner directory indicates the headquarters location is the Philippines.",
+      "key_entities": [
+        "SugarCRM",
+        "partner directory",
+        "Philippines"
+      ],
+      "question_variants": [
+        "Where is the headquarters of SugarCRM?",
+        "What is the location of the SugarCRM headquarters?",
+        "What country is the headquarters in?"
+      ],
+      "problem_signals": [
+        "find sugarcrm headquarters location"
+      ],
+      "confidence_keywords": [
+        "SugarCRM",
+        "headquarters",
+        "Philippines"
+      ],
+      "source_url": "https://www.sugarcrm.com/partners/devtaccrm/",
+      "confidence": "high",
+      "notes": "Sugar partner directory headquarters field.",
+      "original_question": "What country is listed as 'Headquarters' in the SugarCRM partner directory entry?",
+      "original_answer": "Philippines"
+    }
+  },
+  {
+    "id": "devtac_29",
+    "title": "SugarCRM Partner Page Years",
+    "category_path": "history",
+    "text_for_embedding": "SugarCRM Partner Page Years history The SugarCRM partner page states that it has been in operation for 11 years. How long has the SugarCRM partner page been around? What is the history of the SugarCRM partner page? How many years has the SugarCRM partner page been in use?",
+    "metadata": {
+      "intent_class": "factual",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "The SugarCRM partner page states that it has been in operation for 11 years.",
+      "key_entities": [
+        "SugarCRM",
+        "Partner Page"
+      ],
+      "question_variants": [
+        "How long has the SugarCRM partner page been around?",
+        "What is the history of the SugarCRM partner page?",
+        "How many years has the SugarCRM partner page been in use?"
+      ],
+      "problem_signals": [
+        "SugarCRM partner page information",
+        "Track SugarCRM partner page history"
+      ],
+      "confidence_keywords": [
+        "SugarCRM",
+        "Partner Page",
+        "Years",
+        "Operational history"
+      ],
+      "source_url": "https://www.sugarcrm.com/partners/devtaccrm/",
+      "confidence": "medium",
+      "notes": "Partner page statement; may reflect the time of writing.",
+      "original_question": "How many years of operations does the SugarCRM partner page claim (as written on that page)?",
+      "original_answer": "11 years"
+    }
+  },
+  {
+    "id": "devtac_30",
+    "title": "SugarCRM Partner Count",
+    "category_path": "people",
+    "text_for_embedding": "SugarCRM Partner Count people The SugarCRM page indicates 40+ technical professionals. How many employees are on the SugarCRM partner page? What's the number of technical staff listed? SugarCRM partner page data count SugarCRM partner page employee count",
+    "metadata": {
+      "intent_class": "people",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "The SugarCRM page indicates 40+ technical professionals.",
+      "key_entities": [
+        "SugarCRM",
+        "Partner",
+        "Technical Professionals"
+      ],
+      "question_variants": [
+        "How many employees are on the SugarCRM partner page?",
+        "What's the number of technical staff listed?",
+        "SugarCRM partner page data count",
+        "SugarCRM partner page employee count"
+      ],
+      "problem_signals": [
+        "SugarCRM partner page",
+        "employee count",
+        "technical staff"
+      ],
+      "confidence_keywords": [
+        "SugarCRM",
+        "partner",
+        "employees"
+      ],
+      "source_url": "https://www.sugarcrm.com/partners/devtaccrm/",
+      "confidence": "medium",
+      "notes": "Partner page statement; may change over time.",
+      "original_question": "How many technical professionals does the SugarCRM partner page claim (as written on that page)?",
+      "original_answer": "40+"
+    }
+  },
+  {
+    "id": "devtac_31",
+    "title": "Customer Count",
+    "category_path": "customers",
+    "text_for_embedding": "Customer Count customers The SugarCRM partner page states there are 200+ active customers. How many active users are associated with the SugarCRM partner page? What is the number of active customers on the SugarCRM partner page? Can you tell me the number of active users for the SugarCRM partner page?",
+    "metadata": {
+      "intent_class": "customers",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "The SugarCRM partner page states there are 200+ active customers.",
+      "key_entities": [
+        "SugarCRM",
+        "partner page",
+        "customers"
+      ],
+      "question_variants": [
+        "How many active users are associated with the SugarCRM partner page?",
+        "What is the number of active customers on the SugarCRM partner page?",
+        "Can you tell me the number of active users for the SugarCRM partner page?"
+      ],
+      "problem_signals": [
+        "customer count",
+        "active customers",
+        "SugarCRM partner page"
+      ],
+      "confidence_keywords": [
+        "SugarCRM",
+        "partner",
+        "customers",
+        "active"
+      ],
+      "source_url": "https://www.sugarcrm.com/partners/devtaccrm/",
+      "confidence": "medium",
+      "notes": "Partner page claim; may change over time.",
+      "original_question": "How many active customers does the SugarCRM partner page claim (as written on that page)?",
+      "original_answer": "200+"
+    }
+  },
+  {
+    "id": "devtac_32",
+    "title": "Devtac Zoho Partnership",
+    "category_path": "customers",
+    "text_for_embedding": "Devtac Zoho Partnership customers Devtac is listed as a software development and consulting partner by Zoho, as detailed in the Booth & Partners customer story. What is Zoho's relationship with Devtac? Does Zoho provide software development services? How is Devtac represented in Zoho's customer profile? Can you tell me about Zoho’s collaboration with Devtac?",
+    "metadata": {
+      "intent_class": "customers",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "Devtac is listed as a software development and consulting partner by Zoho, as detailed in the Booth & Partners customer story.",
+      "key_entities": [
+        "Devtac",
+        "Zoho",
+        "Booth & Partners"
+      ],
+      "question_variants": [
+        "What is Zoho's relationship with Devtac?",
+        "Does Zoho provide software development services?",
+        "How is Devtac represented in Zoho's customer profile?",
+        "Can you tell me about Zoho’s collaboration with Devtac?"
+      ],
+      "problem_signals": [
+        "Zoho partnership",
+        "Software development",
+        "Customer relationship",
+        "Business collaboration"
+      ],
+      "confidence_keywords": [
+        "Devtac",
+        "Zoho",
+        "partnership",
+        "consulting"
+      ],
+      "source_url": "https://www.zoho.com/crm/customers/boothandpartners.html",
+      "confidence": "high",
+      "notes": "Zoho customer story text.",
+      "original_question": "Is Devtac described by Zoho as a software development and consulting company in the Booth & Partners customer story?",
+      "original_answer": "Yes"
+    }
+  },
+  {
+    "id": "devtac_33",
+    "title": "Zoho Customer Story - Booth & Partners",
+    "category_path": "customers",
+    "text_for_embedding": "Zoho Customer Story - Booth & Partners customers Booth & Partners is highlighted as a key company in Zoho’s customer story, specifically referencing their collaboration with Zoho for customer support and technical assistance. What company does Zoho work with? Who is the customer for Zoho? Show me Zoho’s customer story.",
+    "metadata": {
+      "intent_class": "customers",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "explanation",
+      "solution_summary": "Booth & Partners is highlighted as a key company in Zoho’s customer story, specifically referencing their collaboration with Zoho for customer support and technical assistance.",
+      "key_entities": [
+        "Booth & Partners",
+        "Zoho",
+        "customer support"
+      ],
+      "question_variants": [
+        "What company does Zoho work with?",
+        "Who is the customer for Zoho?",
+        "Show me Zoho’s customer story."
+      ],
+      "problem_signals": [
+        "Zoho customer support",
+        "Customer interaction with Zoho",
+        "Zoho product support"
+      ],
+      "confidence_keywords": [
+        "Zoho",
+        "Booth & Partners",
+        "customer story",
+        "support"
+      ],
+      "source_url": "https://www.zoho.com/crm/customers/boothandpartners.html",
+      "confidence": "high",
+      "notes": "Zoho customer story page.",
+      "original_question": "Which company is featured in Zoho�s customer story that mentions working with Devtac?",
+      "original_answer": "Booth & Partners"
+    }
+  },
+  {
+    "id": "devtac_34",
+    "title": "Devtac�'s Founding Year",
+    "category_path": "history",
+    "text_for_embedding": "Devtac�'s Founding Year history Devtac�’s website states that they were founded in 2009. This information is found on their FAQ page. When did Devtac� start? What year was Devtac� founded? Devtac�'s founding date? Find out the year Devtac� was founded",
+    "metadata": {
+      "intent_class": "history",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "Devtac�’s website states that they were founded in 2009. This information is found on their FAQ page.",
+      "key_entities": [
+        "Devtac�",
+        "2009"
+      ],
+      "question_variants": [
+        "When did Devtac� start?",
+        "What year was Devtac� founded?",
+        "Devtac�'s founding date?",
+        "Find out the year Devtac� was founded"
+      ],
+      "problem_signals": [
+        "I need to know the founding year of a company."
+      ],
+      "confidence_keywords": [
+        "Devtac�",
+        "2009"
+      ],
+      "source_url": "https://devtac.com/",
+      "confidence": "high",
+      "notes": "Homepage FAQ.",
+      "original_question": "On Devtac�s site, what year did they say the company was founded?",
+      "original_answer": "2009"
+    }
+  },
+  {
+    "id": "devtac_35",
+    "title": "Devtac Founded As",
+    "category_path": "history",
+    "text_for_embedding": "Devtac Founded As history Devtac was initially established as a software development firm specializing in CRM solutions. What was the original company name? Who founded Devtac? What industry does Devtac operate in? When was Devtac founded?",
+    "metadata": {
+      "intent_class": "factual",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "explanation",
+      "solution_summary": "Devtac was initially established as a software development firm specializing in CRM solutions.",
+      "key_entities": [
+        "Devtac",
+        "CRM solutions"
+      ],
+      "question_variants": [
+        "What was the original company name?",
+        "Who founded Devtac?",
+        "What industry does Devtac operate in?",
+        "When was Devtac founded?"
+      ],
+      "problem_signals": [
+        "CRM company",
+        "Software development",
+        "Founded company"
+      ],
+      "confidence_keywords": [
+        "Devtac",
+        "CRM",
+        "company"
+      ],
+      "source_url": "https://devtac.com/",
+      "confidence": "high",
+      "notes": "Homepage FAQ wording.",
+      "original_question": "According to Devtac�s site FAQ, what kind of company was Devtac founded as?",
+      "original_answer": "A software development company focused on CRM solutions"
+    }
+  },
+  {
+    "id": "devtac_36",
+    "title": "Devtac� Solutions",
+    "category_path": "services",
+    "text_for_embedding": "Devtac� Solutions services Devtac� offers a range of end-to-to-end business solutions, including consulting, implementation, and managed services. What services does Devtac� offer? What kind of business solutions does Devtac� provide? Describe Devtac�'s business offerings",
+    "metadata": {
+      "intent_class": "services",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "list",
+      "solution_summary": "Devtac� offers a range of end-to-to-end business solutions, including consulting, implementation, and managed services.",
+      "key_entities": [
+        "Devtac�",
+        "business solutions"
+      ],
+      "question_variants": [
+        "What services does Devtac� offer?",
+        "What kind of business solutions does Devtac� provide?",
+        "Describe Devtac�'s business offerings"
+      ],
+      "problem_signals": [
+        "business solutions",
+        "need help with business"
+      ],
+      "confidence_keywords": [
+        "Devtac�",
+        "solutions",
+        "business"
+      ],
+      "source_url": "https://devtac.com/",
+      "confidence": "high",
+      "notes": "Homepage description.",
+      "original_question": "According to Devtac�s site, what type of solutions do they provide?",
+      "original_answer": "End-to-end business solutions"
+    }
+  },
+  {
+    "id": "devtac_37",
+    "title": "Devtac Digital Transformation Consultation",
+    "category_path": "services",
+    "text_for_embedding": "Devtac Digital Transformation Consultation services Devtac provides Digital Transformation Consultation services.  This service is listed in their website footer. Does Devtac offer Digital Transformation Consultation? What services does Devtac provide? Is Devtac a digital transformation consulting firm?",
+    "metadata": {
+      "intent_class": "services",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "Devtac provides Digital Transformation Consultation services.  This service is listed in their website footer.",
+      "key_entities": [
+        "Devtac",
+        "Digital Transformation Consultation"
+      ],
+      "question_variants": [
+        "Does Devtac offer Digital Transformation Consultation?",
+        "What services does Devtac provide?",
+        "Is Devtac a digital transformation consulting firm?"
+      ],
+      "problem_signals": [
+        "Digital transformation consultation needs",
+        "find Devtac services",
+        "understand Devtac's offerings"
+      ],
+      "confidence_keywords": [
+        "Devtac",
+        "Digital Transformation",
+        "Consultation"
+      ],
+      "source_url": "https://devtac.com/contact-us/; https://devtac.com/career/",
+      "confidence": "high",
+      "notes": "Service list in site footer.",
+      "original_question": "Does Devtac list 'Digital Transformation Consultation' as a service?",
+      "original_answer": "Yes"
+    }
+  },
+  {
+    "id": "devtac_38",
+    "title": "Devtac CRM Services",
+    "category_path": "services",
+    "text_for_embedding": "Devtac CRM Services services Devtac offers CRM Development as a service, providing tailored solutions to businesses needing enhanced CRM functionality. What services does Devtac provide? Does Devtac offer CRM Development? Can Devtac provide CRM Development?",
+    "metadata": {
+      "intent_class": "services",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "Devtac offers CRM Development as a service, providing tailored solutions to businesses needing enhanced CRM functionality.",
+      "key_entities": [
+        "Devtac",
+        "CRM Development"
+      ],
+      "question_variants": [
+        "What services does Devtac provide?",
+        "Does Devtac offer CRM Development?",
+        "Can Devtac provide CRM Development?"
+      ],
+      "problem_signals": [
+        "CRM setup",
+        "CRM implementation",
+        "CRM training",
+        "CRM best practices"
+      ],
+      "confidence_keywords": [
+        "Devtac",
+        "CRM",
+        "service",
+        "development"
+      ],
+      "source_url": "https://devtac.com/services/crm-development/",
+      "confidence": "high",
+      "notes": "Service page + site footer list.",
+      "original_question": "Does Devtac list 'CRM Development' as a service?",
+      "original_answer": "Yes"
+    }
+  },
+  {
+    "id": "devtac_39",
+    "title": "Devtac Offers Marketing Automation Development as a Service",
+    "category_path": "services",
+    "text_for_embedding": "Devtac Offers Marketing Automation Development as a Service services Devtac provides marketing automation development services, specifically specializing in building and maintaining automated marketing campaigns.  They offer customized solutions across various marketing channels. What services does Devtac provide? Does Devtac offer marketing automation development? Can Devtac develop marketing automation? Is Devtac a marketing automation service?",
+    "metadata": {
+      "intent_class": "services",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "Devtac provides marketing automation development services, specifically specializing in building and maintaining automated marketing campaigns.  They offer customized solutions across various marketing channels.",
+      "key_entities": [
+        "Devtac",
+        "Marketing Automation Development"
+      ],
+      "question_variants": [
+        "What services does Devtac provide?",
+        "Does Devtac offer marketing automation development?",
+        "Can Devtac develop marketing automation?",
+        "Is Devtac a marketing automation service?"
+      ],
+      "problem_signals": [
+        "Marketing automation setup",
+        "Automated marketing campaign needs",
+        "Marketing automation consulting",
+        "Build a marketing automation system"
+      ],
+      "confidence_keywords": [
+        "Devtac",
+        "Marketing Automation",
+        "Development",
+        "Service"
+      ],
+      "source_url": "https://devtac.com/contact-us/; https://devtac.com/career/",
+      "confidence": "high",
+      "notes": "Service list in site footer.",
+      "original_question": "Does Devtac list 'Marketing Automation Development' as a service?",
+      "original_answer": "Yes"
+    }
+  },
+  {
+    "id": "devtac_40",
+    "title": "Devtac Service Listing",
+    "category_path": "services",
+    "text_for_embedding": "Devtac Service Listing services Devtac offers Customer Care Development as a service. Does Devtac provide Customer Care Development? What services does Devtac offer? Is Devtac offering Customer Care Development?",
+    "metadata": {
+      "intent_class": "services",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "Devtac offers Customer Care Development as a service.",
+      "key_entities": [
+        "Devtac",
+        "Customer Care Development"
+      ],
+      "question_variants": [
+        "Does Devtac provide Customer Care Development?",
+        "What services does Devtac offer?",
+        "Is Devtac offering Customer Care Development?"
+      ],
+      "problem_signals": [
+        "Customer Care Development",
+        "Service Pricing",
+        "Devtac Support"
+      ],
+      "confidence_keywords": [
+        "Devtac",
+        "Customer Care",
+        "Development",
+        "Service"
+      ],
+      "source_url": "https://devtac.com/services/customer-care-development/",
+      "confidence": "high",
+      "notes": "Service page + site footer list.",
+      "original_question": "Does Devtac list 'Customer Care Development' as a service?",
+      "original_answer": "Yes"
+    }
+  },
+  {
+    "id": "devtac_41",
+    "title": "Devtac Web Application Development Service",
+    "category_path": "services",
+    "text_for_embedding": "Devtac Web Application Development Service services Devtac offers Web Application Development as a service, providing custom solutions for businesses. What services does Devtac provide? Does Devtac offer web app development? Can Devtac handle web app development?",
+    "metadata": {
+      "intent_class": "services",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "Devtac offers Web Application Development as a service, providing custom solutions for businesses.",
+      "key_entities": [
+        "Devtac",
+        "Web Application Development"
+      ],
+      "question_variants": [
+        "What services does Devtac provide?",
+        "Does Devtac offer web app development?",
+        "Can Devtac handle web app development?"
+      ],
+      "problem_signals": [
+        "Web application development needs",
+        "Need a web app development solution",
+        "Looking for web app development services"
+      ],
+      "confidence_keywords": [
+        "Devtac",
+        "Web Application",
+        "Development",
+        "Service"
+      ],
+      "source_url": "https://devtac.com/contact-us/; https://devtac.com/career/",
+      "confidence": "high",
+      "notes": "Service list in site footer.",
+      "original_question": "Does Devtac list 'Web Application Development' as a service?",
+      "original_answer": "Yes"
+    }
+  },
+  {
+    "id": "devtac_42",
+    "title": "Devtac HR System Development Service",
+    "category_path": "services",
+    "text_for_embedding": "Devtac HR System Development Service services Devtac offers HR System Development as a service, providing tailored solutions for businesses to modernize their HR processes. Does Devtac provide HR system development? What services does Devtac offer? Can Devtac develop HR systems?",
+    "metadata": {
+      "intent_class": "services",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "Devtac offers HR System Development as a service, providing tailored solutions for businesses to modernize their HR processes.",
+      "key_entities": [
+        "Devtac",
+        "HR System Development"
+      ],
+      "question_variants": [
+        "Does Devtac provide HR system development?",
+        "What services does Devtac offer?",
+        "Can Devtac develop HR systems?"
+      ],
+      "problem_signals": [
+        "HR system implementation",
+        "Modernize HR processes",
+        "Upgrade HR systems"
+      ],
+      "confidence_keywords": [
+        "Devtac",
+        "HR System",
+        "Development",
+        "Service"
+      ],
+      "source_url": "https://devtac.com/contact-us/; https://devtac.com/career/",
+      "confidence": "high",
+      "notes": "Service list in site footer.",
+      "original_question": "Does Devtac list 'HR System Development' as a service?",
+      "original_answer": "Yes"
+    }
+  },
+  {
+    "id": "devtac_43",
+    "title": "Devtac Cloud Communication Suite",
+    "category_path": "services",
+    "text_for_embedding": "Devtac Cloud Communication Suite services Devtac offers a cloud-based communication and collaboration suite, providing remote team collaboration tools. Does Devtac provide communication solutions? What services does Devtac offer? Can Devtac sell a communication suite?",
+    "metadata": {
+      "intent_class": "services",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "Devtac offers a cloud-based communication and collaboration suite, providing remote team collaboration tools.",
+      "key_entities": [
+        "Devtac",
+        "Cloud-based Communication and Collaboration Suite"
+      ],
+      "question_variants": [
+        "Does Devtac provide communication solutions?",
+        "What services does Devtac offer?",
+        "Can Devtac sell a communication suite?"
+      ],
+      "problem_signals": [
+        "communication tools",
+        "remote collaboration",
+        "team productivity"
+      ],
+      "confidence_keywords": [
+        "Devtac",
+        "communication",
+        "collaboration",
+        "suite"
+      ],
+      "source_url": "https://devtac.com/contact-us/; https://devtac.com/career/",
+      "confidence": "high",
+      "notes": "Service list in site footer.",
+      "original_question": "Does Devtac list 'Cloud-based Communication and Collaboration Suite' as a service?",
+      "original_answer": "Yes"
+    }
+  },
+  {
+    "id": "devtac_44",
+    "title": "Devtac Offers Cloud-Based Email Solution as a Service",
+    "category_path": "services",
+    "text_for_embedding": "Devtac Offers Cloud-Based Email Solution as a Service services Devtac provides a cloud-based email solution, allowing customers to easily manage their email infrastructure. What services does Devtac offer? Does Devtac sell email solutions? Can Devtac provide email management?",
+    "metadata": {
+      "intent_class": "services",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "Devtac provides a cloud-based email solution, allowing customers to easily manage their email infrastructure.",
+      "key_entities": [
+        "Devtac",
+        "Cloud-based Email Solution"
+      ],
+      "question_variants": [
+        "What services does Devtac offer?",
+        "Does Devtac sell email solutions?",
+        "Can Devtac provide email management?"
+      ],
+      "problem_signals": [
+        "Email management",
+        "Cloud infrastructure",
+        "Email delivery"
+      ],
+      "confidence_keywords": [
+        "Devtac",
+        "Cloud-based",
+        "Email",
+        "Service"
+      ],
+      "source_url": "https://devtac.com/contact-us/; https://devtac.com/career/",
+      "confidence": "high",
+      "notes": "Service list in site footer.",
+      "original_question": "Does Devtac list 'Cloud-based Email Solution' as a service?",
+      "original_answer": "Yes"
+    }
+  },
+  {
+    "id": "devtac_45",
+    "title": "Devtac Mobile App Development Service",
+    "category_path": "services",
+    "text_for_embedding": "Devtac Mobile App Development Service services Devtac offers mobile app development services, including design, development, and maintenance. They provide tailored solutions for businesses seeking to launch and maintain successful mobile applications. What services does Devtac offer? Does Devtac provide mobile app development? Can Devtac help with mobile app development?",
+    "metadata": {
+      "intent_class": "services",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "Devtac offers mobile app development services, including design, development, and maintenance. They provide tailored solutions for businesses seeking to launch and maintain successful mobile applications.",
+      "key_entities": [
+        "Devtac",
+        "Mobile App Development"
+      ],
+      "question_variants": [
+        "What services does Devtac offer?",
+        "Does Devtac provide mobile app development?",
+        "Can Devtac help with mobile app development?"
+      ],
+      "problem_signals": [
+        "mobile app development needs",
+        "need for mobile app services",
+        "mobile app creation"
+      ],
+      "confidence_keywords": [
+        "Devtac",
+        "Mobile App Development",
+        "Service"
+      ],
+      "source_url": "https://devtac.com/contact-us/; https://devtac.com/career/",
+      "confidence": "high",
+      "notes": "Service list in site footer.",
+      "original_question": "Does Devtac list 'Mobile App Development' as a service?",
+      "original_answer": "Yes"
+    }
+  },
+  {
+    "id": "devtac_46",
+    "title": "Devtac offers System Integration as a service",
+    "category_path": "services",
+    "text_for_embedding": "Devtac offers System Integration as a service services Devtac provides a comprehensive System Integration service, allowing clients to seamlessly integrate their systems and applications. This service includes expert consultation, custom integration development, and ongoing support. It covers various technologies and architectures. What services does Devtac offer? Does Devtac provide system integration? Does Devtac offer integration services?",
+    "metadata": {
+      "intent_class": "services",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "Devtac provides a comprehensive System Integration service, allowing clients to seamlessly integrate their systems and applications. This service includes expert consultation, custom integration development, and ongoing support. It covers various technologies and architectures.",
+      "key_entities": [
+        "Devtac",
+        "System Integration",
+        "service"
+      ],
+      "question_variants": [
+        "What services does Devtac offer?",
+        "Does Devtac provide system integration?",
+        "Does Devtac offer integration services?"
+      ],
+      "problem_signals": [
+        "Integration needs to be completed",
+        "Need to integrate systems",
+        "Integration process required",
+        "Integration development required"
+      ],
+      "confidence_keywords": [
+        "Devtac",
+        "Integration",
+        "Service",
+        "Integration services"
+      ],
+      "source_url": "https://devtac.com/contact-us/; https://devtac.com/career/",
+      "confidence": "high",
+      "notes": "Service list in site footer.",
+      "original_question": "Does Devtac list 'System Integration' as a service?",
+      "original_answer": "Yes"
+    }
+  },
+  {
+    "id": "devtac_47",
+    "title": "Devtac Data Migration Services",
+    "category_path": "services",
+    "text_for_embedding": "Devtac Data Migration Services services Devtac offers Data Migration as a service, assisting clients in migrating data to new platforms and systems. Does Devtac provide data migration? Can Devtac handle data migration? What data migration services does Devtac offer? Is Devtac offering data migration?",
+    "metadata": {
+      "intent_class": "services",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "Devtac offers Data Migration as a service, assisting clients in migrating data to new platforms and systems.",
+      "key_entities": [
+        "Devtac",
+        "Data Migration",
+        "Service"
+      ],
+      "question_variants": [
+        "Does Devtac provide data migration?",
+        "Can Devtac handle data migration?",
+        "What data migration services does Devtac offer?",
+        "Is Devtac offering data migration?"
+      ],
+      "problem_signals": [
+        "Data migration needs to be done",
+        "Migration process is required",
+        "Need to migrate data"
+      ],
+      "confidence_keywords": [
+        "Devtac",
+        "Data Migration",
+        "Service"
+      ],
+      "source_url": "https://devtac.com/contact-us/; https://devtac.com/career/",
+      "confidence": "high",
+      "notes": "Service list in site footer.",
+      "original_question": "Does Devtac list 'Data Migration' as a service?",
+      "original_answer": "Yes"
+    }
+  },
+  {
+    "id": "devtac_48",
+    "title": "Devtac Managed Services",
+    "category_path": "services",
+    "text_for_embedding": "Devtac Managed Services services Devtac offers managed services, which are ongoing support and maintenance contracts for businesses. They provide expertise in areas like cloud infrastructure, cybersecurity, and data management. What services does Devtac offer? Does Devtac provide managed services? Can Devtac list their managed services?",
+    "metadata": {
+      "intent_class": "services",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "Devtac offers managed services, which are ongoing support and maintenance contracts for businesses. They provide expertise in areas like cloud infrastructure, cybersecurity, and data management.",
+      "key_entities": [
+        "Devtac",
+        "Managed Services"
+      ],
+      "question_variants": [
+        "What services does Devtac offer?",
+        "Does Devtac provide managed services?",
+        "Can Devtac list their managed services?"
+      ],
+      "problem_signals": [
+        "Find out about Devtac's services"
+      ],
+      "confidence_keywords": [
+        "Devtac",
+        "Managed Services"
+      ],
+      "source_url": "https://devtac.com/contact-us/; https://devtac.com/career/",
+      "confidence": "high",
+      "notes": "Service list in site footer.",
+      "original_question": "Does Devtac list 'Managed Services' as a service?",
+      "original_answer": "Yes"
+    }
+  },
+  {
+    "id": "devtac_49",
+    "title": "Devtac Services List",
+    "category_path": "services",
+    "text_for_embedding": "Devtac Services List services Devtac offers Technology Training Services, which is included in their service list. Does Devtac provide training? What training services do they offer? List of Devtac training services",
+    "metadata": {
+      "intent_class": "services",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "Devtac offers Technology Training Services, which is included in their service list.",
+      "key_entities": [
+        "Devtac",
+        "Technology Training Services"
+      ],
+      "question_variants": [
+        "Does Devtac provide training?",
+        "What training services do they offer?",
+        "List of Devtac training services"
+      ],
+      "problem_signals": [
+        "Training services",
+        "Devtac services",
+        "Tech training"
+      ],
+      "confidence_keywords": [
+        "Devtac",
+        "Training Services",
+        "Services"
+      ],
+      "source_url": "https://devtac.com/contact-us/; https://devtac.com/career/",
+      "confidence": "high",
+      "notes": "Service list in site footer.",
+      "original_question": "Does Devtac list 'Technology Training Services' as a service?",
+      "original_answer": "Yes"
+    }
+  },
+  {
+    "id": "devtac_50",
+    "title": "Devtac Offers Technology Support & Maintenance",
+    "category_path": "services",
+    "text_for_embedding": "Devtac Offers Technology Support & Maintenance services Devtac provides technology support and maintenance services, including troubleshooting, system upgrades, and ongoing monitoring.  They offer a range of services tailored to client needs. Does Devtac provide maintenance? What services does Devtac offer? Does Devtac offer tech support?",
+    "metadata": {
+      "intent_class": "services",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "Devtac provides technology support and maintenance services, including troubleshooting, system upgrades, and ongoing monitoring.  They offer a range of services tailored to client needs.",
+      "key_entities": [
+        "Devtac",
+        "Technology Support & Maintenance"
+      ],
+      "question_variants": [
+        "Does Devtac provide maintenance?",
+        "What services does Devtac offer?",
+        "Does Devtac offer tech support?"
+      ],
+      "problem_signals": [
+        "tech support",
+        "system maintenance",
+        "troubleshooting"
+      ],
+      "confidence_keywords": [
+        "Devtac",
+        "support",
+        "maintenance",
+        "service"
+      ],
+      "source_url": "https://devtac.com/contact-us/; https://devtac.com/career/",
+      "confidence": "high",
+      "notes": "Service list in site footer.",
+      "original_question": "Does Devtac list 'Technology Support and Maintenance' as a service?",
+      "original_answer": "Yes"
+    }
+  },
+  {
+    "id": "devtac_51",
+    "title": "CRM Development Features",
+    "category_path": "services",
+    "text_for_embedding": "CRM Development Features services The CRM Development feature focuses on customizing workflows through tailored modules to meet specific business needs. It allows users to create unique solutions. What type of CRM customization does the feature offer? Describe the modules within the CRM development process.",
+    "metadata": {
+      "intent_class": "services",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "explanation",
+      "solution_summary": "The CRM Development feature focuses on customizing workflows through tailored modules to meet specific business needs. It allows users to create unique solutions.",
+      "key_entities": [
+        "CRM",
+        "Bespoke Tailoring"
+      ],
+      "question_variants": [
+        "What type of CRM customization does the feature offer?",
+        "Describe the modules within the CRM development process."
+      ],
+      "problem_signals": [
+        "customize CRM workflows",
+        "create custom CRM solutions"
+      ],
+      "confidence_keywords": [
+        "CRM",
+        "modules",
+        "workflows",
+        "customization"
+      ],
+      "source_url": "https://devtac.com/services/crm-development/",
+      "confidence": "high",
+      "notes": "CRM Development page.",
+      "original_question": "What is the name of the CRM Development feature describing tailored modules/workflows?",
+      "original_answer": "Bespoke Tailoring"
+    }
+  },
+  {
+    "id": "devtac_52",
+    "title": "CRM Development Scalability Feature",
+    "category_path": "services",
+    "text_for_embedding": "CRM Development Scalability Feature services The CRM development feature focuses on building scalable architectures and flexible infrastructure, enabling businesses to handle increased data volumes and user growth. What is the CRM development feature for scalability? Describe the CRM development's scalability aspect. How does CRM development support scalable architecture? Explain the CRM's infrastructure for scalability.",
+    "metadata": {
+      "intent_class": "services",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "explanation",
+      "solution_summary": "The CRM development feature focuses on building scalable architectures and flexible infrastructure, enabling businesses to handle increased data volumes and user growth.",
+      "key_entities": [
+        "CRM Development",
+        "Scalable Architecture",
+        "Flexible Infrastructure"
+      ],
+      "question_variants": [
+        "What is the CRM development feature for scalability?",
+        "Describe the CRM development's scalability aspect.",
+        "How does CRM development support scalable architecture?",
+        "Explain the CRM's infrastructure for scalability."
+      ],
+      "problem_signals": [
+        "scalable architecture",
+        "flexible infrastructure",
+        "handle data growth",
+        "user scalability"
+      ],
+      "confidence_keywords": [
+        "CRM",
+        "Development",
+        "Scalability",
+        "Architecture",
+        "Infrastructure"
+      ],
+      "source_url": "https://devtac.com/services/crm-development/",
+      "confidence": "high",
+      "notes": "CRM Development page.",
+      "original_question": "What is the name of the CRM Development feature describing scalable architecture/flexible infrastructure?",
+      "original_answer": "Empowering Scalability"
+    }
+  },
+  {
+    "id": "devtac_53",
+    "title": "CRM Data Protection",
+    "category_path": "services",
+    "text_for_embedding": "CRM Data Protection services Fortified Security is a CRM development feature focused on safeguarding sensitive data and ensuring regulatory compliance through robust security measures. What’s the CRM feature for sensitive data? How does the CRM handle data security? Describe the CRM’s data protection capabilities. What's Fortified Security's role in CRM compliance?",
+    "metadata": {
+      "intent_class": "services",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "explanation",
+      "solution_summary": "Fortified Security is a CRM development feature focused on safeguarding sensitive data and ensuring regulatory compliance through robust security measures.",
+      "key_entities": [
+        "Fortified Security",
+        "CRM Development",
+        "Data Protection",
+        "Compliance"
+      ],
+      "question_variants": [
+        "What’s the CRM feature for sensitive data?",
+        "How does the CRM handle data security?",
+        "Describe the CRM’s data protection capabilities.",
+        "What's Fortified Security's role in CRM compliance?"
+      ],
+      "problem_signals": [
+        "data security",
+        "compliance requirements",
+        "protect sensitive information",
+        "ensure regulatory standards"
+      ],
+      "confidence_keywords": [
+        "Fortified Security",
+        "CRM",
+        "Data",
+        "Compliance",
+        "Security"
+      ],
+      "source_url": "https://devtac.com/services/crm-development/",
+      "confidence": "high",
+      "notes": "CRM Development page.",
+      "original_question": "What is the name of the CRM Development feature describing protection of sensitive data and compliance?",
+      "original_answer": "Fortified Security"
+    }
+  },
+  {
+    "id": "devtac_54",
+    "title": "CRM Development Insights",
+    "category_path": "services",
+    "text_for_embedding": "CRM Development Insights services The CRM Development feature provides data-driven insights to enhance decision-making processes within the CRM system. What features does the CRM development offer? How does the CRM development help with decision-making? Explain the insights provided by the CRM development.",
+    "metadata": {
+      "intent_class": "services",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "explanation",
+      "solution_summary": "The CRM Development feature provides data-driven insights to enhance decision-making processes within the CRM system.",
+      "key_entities": [
+        "CRM",
+        "Development",
+        "Insights"
+      ],
+      "question_variants": [
+        "What features does the CRM development offer?",
+        "How does the CRM development help with decision-making?",
+        "Explain the insights provided by the CRM development."
+      ],
+      "problem_signals": [
+        "improve CRM strategy",
+        "understand user data",
+        "optimize CRM performance",
+        "make better business decisions"
+      ],
+      "confidence_keywords": [
+        "CRM",
+        "development",
+        "insights",
+        "decision-making"
+      ],
+      "source_url": "https://devtac.com/services/crm-development/",
+      "confidence": "high",
+      "notes": "CRM Development page.",
+      "original_question": "What is the name of the CRM Development feature about insights for decision-making?",
+      "original_answer": "Data-Driven Insights"
+    }
+  },
+  {
+    "id": "devtac_55",
+    "title": "CRM Training Features",
+    "category_path": "services",
+    "text_for_embedding": "CRM Training Features services The CRM Development feature focuses on offering training programs and support for optimizing CRM usage. It's a key aspect of the CRM's value proposition. What specific training is offered within the CRM? Describe the CRM’s training support offerings. How does the CRM handle training and support? What types of CRM training programs are available?",
+    "metadata": {
+      "intent_class": "services",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "explanation",
+      "solution_summary": "The CRM Development feature focuses on offering training programs and support for optimizing CRM usage. It's a key aspect of the CRM's value proposition.",
+      "key_entities": [
+        "CRM",
+        "Training Programs",
+        "Support"
+      ],
+      "question_variants": [
+        "What specific training is offered within the CRM?",
+        "Describe the CRM’s training support offerings.",
+        "How does the CRM handle training and support?",
+        "What types of CRM training programs are available?"
+      ],
+      "problem_signals": [
+        "CRM training needs",
+        "Improve CRM usage",
+        "Training resources",
+        "Software updates"
+      ],
+      "confidence_keywords": [
+        "CRM",
+        "Training",
+        "Support",
+        "Optimization"
+      ],
+      "source_url": "https://devtac.com/services/crm-development/",
+      "confidence": "high",
+      "notes": "CRM Development page.",
+      "original_question": "What is the name of the CRM Development feature referencing training programs and support?",
+      "original_answer": "Excellence in Support"
+    }
+  },
+  {
+    "id": "devtac_56",
+    "title": "Customer Care Capabilities",
+    "category_path": "services",
+    "text_for_embedding": "Customer Care Capabilities services The Customer Care Development page details the specific customer care capabilities listed first, including ticket management. What are the first three customer care capabilities on the Customer Care Development page? List the first features listed on the Customer Care Development page.",
+    "metadata": {
+      "intent_class": "services",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "list",
+      "solution_summary": "The Customer Care Development page details the specific customer care capabilities listed first, including ticket management.",
+      "key_entities": [
+        "Customer Care Development",
+        "Ticket Management"
+      ],
+      "question_variants": [
+        "What are the first three customer care capabilities on the Customer Care Development page?",
+        "List the first features listed on the Customer Care Development page."
+      ],
+      "problem_signals": [
+        "Customer care capabilities",
+        "First features"
+      ],
+      "confidence_keywords": [
+        "customer care",
+        "capabilities",
+        "development"
+      ],
+      "source_url": "https://devtac.com/services/customer-care-development/",
+      "confidence": "high",
+      "notes": "Customer Care Development page.",
+      "original_question": "What customer care capability is listed first on the Customer Care Development page?",
+      "original_answer": "Ticket Management"
+    }
+  },
+  {
+    "id": "devtac_57",
+    "title": "Automated Customer Support",
+    "category_path": "services",
+    "text_for_embedding": "Automated Customer Support services Customer care capability focuses on automating repetitive tasks to improve efficiency and reduce workload for customer service representatives. How does automation improve customer support? What are the benefits of workflow automation? Describe how automation changes customer service",
+    "metadata": {
+      "intent_class": "services",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "explanation",
+      "solution_summary": "Customer care capability focuses on automating repetitive tasks to improve efficiency and reduce workload for customer service representatives.",
+      "key_entities": [
+        "Automation",
+        "Workflows"
+      ],
+      "question_variants": [
+        "How does automation improve customer support?",
+        "What are the benefits of workflow automation?",
+        "Describe how automation changes customer service"
+      ],
+      "problem_signals": [
+        "Reduce workload",
+        "Improve efficiency",
+        "Lower costs",
+        "Increase customer satisfaction"
+      ],
+      "confidence_keywords": [
+        "automation",
+        "workflow",
+        "customer support"
+      ],
+      "source_url": "https://devtac.com/services/customer-care-development/",
+      "confidence": "high",
+      "notes": "Customer Care Development page.",
+      "original_question": "What customer care capability refers to streamlining repetitive tasks?",
+      "original_answer": "Automation and Workflows"
+    }
+  },
+  {
+    "id": "devtac_58",
+    "title": "Omnichannel Support",
+    "category_path": "services",
+    "text_for_embedding": "Omnichannel Support services Omnichannel support involves seamlessly integrating email, live chat, social media, and phone interactions into a single platform. This provides a unified customer experience, allowing agents to respond to customers across various channels with consistent branding and data. It enhances customer satisfaction and operational efficiency. How do companies integrate multiple channels? What's the concept of omnichannel support? Describe the process of omnichannel customer service Explain how to connect email, chat, social media and phone",
+    "metadata": {
+      "intent_class": "services",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "explanation",
+      "solution_summary": "Omnichannel support involves seamlessly integrating email, live chat, social media, and phone interactions into a single platform. This provides a unified customer experience, allowing agents to respond to customers across various channels with consistent branding and data. It enhances customer satisfaction and operational efficiency.",
+      "key_entities": [
+        "Omnichannel Support",
+        "Email",
+        "Live Chat",
+        "Social Media",
+        "Phone"
+      ],
+      "question_variants": [
+        "How do companies integrate multiple channels?",
+        "What's the concept of omnichannel support?",
+        "Describe the process of omnichannel customer service",
+        "Explain how to connect email, chat, social media and phone"
+      ],
+      "problem_signals": [
+        "Customer experience issues",
+        "Improving customer satisfaction",
+        "Reducing support costs",
+        "Enhanced agent productivity"
+      ],
+      "confidence_keywords": [
+        "Omnichannel",
+        "Support",
+        "Integration",
+        "Channels"
+      ],
+      "source_url": "https://devtac.com/services/customer-care-development/",
+      "confidence": "high",
+      "notes": "Customer Care Development page.",
+      "original_question": "What customer care capability refers to integrating email, live chat, social media, and phone into one system?",
+      "original_answer": "Omnichannel Support"
+    }
+  },
+  {
+    "id": "devtac_59",
+    "title": "Customer Care Self-Service",
+    "category_path": "services",
+    "text_for_embedding": "Customer Care Self-Service services Customer care capabilities include readily available resources for frequently asked questions, empowering customers to resolve issues independently. What is the customer care function? Describe self-service customer support How does customer care handle common issues? What is the purpose of customer care resources?",
+    "metadata": {
+      "intent_class": "services",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "list",
+      "solution_summary": "Customer care capabilities include readily available resources for frequently asked questions, empowering customers to resolve issues independently.",
+      "key_entities": [
+        "Knowledge Base Management"
+      ],
+      "question_variants": [
+        "What is the customer care function?",
+        "Describe self-service customer support",
+        "How does customer care handle common issues?",
+        "What is the purpose of customer care resources?"
+      ],
+      "problem_signals": [
+        "Trouble resolving a problem",
+        "Need for quick assistance",
+        "Looking for solutions to common issues",
+        "Seeking information about support options"
+      ],
+      "confidence_keywords": [
+        "knowledge base",
+        "self-service",
+        "customer care"
+      ],
+      "source_url": "https://devtac.com/services/customer-care-development/",
+      "confidence": "high",
+      "notes": "Customer Care Development page.",
+      "original_question": "What customer care capability refers to a self-service resource for common questions?",
+      "original_answer": "Knowledge Base Management"
+    }
+  },
+  {
+    "id": "devtac_60",
+    "title": "Customer Care Capabilities",
+    "category_path": "services",
+    "text_for_embedding": "Customer Care Capabilities services The answer focuses on the strategic use of data and reporting to enhance support operations. It highlights the role of insights in driving data-driven decisions for customer support. What tools are used for customer support analysis? How does reporting support customer service? Describe the role of data in customer support strategy.",
+    "metadata": {
+      "intent_class": "services",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "explanation",
+      "solution_summary": "The answer focuses on the strategic use of data and reporting to enhance support operations. It highlights the role of insights in driving data-driven decisions for customer support.",
+      "key_entities": [
+        "Customer Care",
+        "Reporting",
+        "Analytics",
+        "Data-Driven Decisions"
+      ],
+      "question_variants": [
+        "What tools are used for customer support analysis?",
+        "How does reporting support customer service?",
+        "Describe the role of data in customer support strategy."
+      ],
+      "problem_signals": [
+        "Improve customer satisfaction",
+        "Reduce support costs",
+        "Increase resolution times"
+      ],
+      "confidence_keywords": [
+        "reporting",
+        "analytics",
+        "support operations",
+        "customer service"
+      ],
+      "source_url": "https://devtac.com/services/customer-care-development/",
+      "confidence": "high",
+      "notes": "Customer Care Development page.",
+      "original_question": "What customer care capability is about insights and data-driven decisions for support operations?",
+      "original_answer": "Reporting and Analytics"
+    }
+  },
+  {
+    "id": "devtac_61",
+    "title": "Android App Name",
+    "category_path": "products",
+    "text_for_embedding": "Android App Name products DEVTAC CRM, INC. developed a mobile application named Frontdesk available on Google Play. This app offers features for CRM management and reporting. What is the name of the Android app? Which Android app does DEVTAC CRM, INC. publish? Where can I find the Android app developed by DEVTAC CRM, INC.?",
+    "metadata": {
+      "intent_class": "products",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "DEVTAC CRM, INC. developed a mobile application named Frontdesk available on Google Play. This app offers features for CRM management and reporting.",
+      "key_entities": [
+        "DEVTAC CRM, INC.",
+        "Google Play"
+      ],
+      "question_variants": [
+        "What is the name of the Android app?",
+        "Which Android app does DEVTAC CRM, INC. publish?",
+        "Where can I find the Android app developed by DEVTAC CRM, INC.?"
+      ],
+      "problem_signals": [
+        "Android app",
+        "DEVTAC CRM, INC.",
+        "app name"
+      ],
+      "confidence_keywords": [
+        "DEVTAC CRM, INC.",
+        "Android app",
+        "Google Play"
+      ],
+      "source_url": "https://play.google.com/store/apps/details?id=com.devtac.frontdesk",
+      "confidence": "high",
+      "notes": "App title.",
+      "original_question": "What is the name of the Android app published by DEVTAC CRM, INC. on Google Play?",
+      "original_answer": "Frontdesk"
+    }
+  },
+  {
+    "id": "devtac_62",
+    "title": "Android Package ID",
+    "category_path": "products",
+    "text_for_embedding": "Android Package ID products The Android package ID for the 'Frontdesk' app is com.devtac.frontdesk. What is the package ID of the Frontdesk app? Provide the Android package ID for the Frontdesk app.",
+    "metadata": {
+      "intent_class": "products",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "The Android package ID for the 'Frontdesk' app is com.devtac.frontdesk.",
+      "key_entities": [
+        "com.devtac.frontdesk"
+      ],
+      "question_variants": [
+        "What is the package ID of the Frontdesk app?",
+        "Provide the Android package ID for the Frontdesk app."
+      ],
+      "problem_signals": [
+        "Find the package ID for a specific app."
+      ],
+      "confidence_keywords": [
+        "package id",
+        "android",
+        "frontdesk",
+        "com.devtac.frontdesk"
+      ],
+      "source_url": "https://play.google.com/store/apps/details?id=com.devtac.frontdesk",
+      "confidence": "high",
+      "notes": "Google Play URL/app ID parameter.",
+      "original_question": "What is the Android package ID of the 'Frontdesk' app?",
+      "original_answer": "com.devtac.frontdesk"
+    }
+  },
+  {
+    "id": "devtac_63",
+    "title": "Google Play App Category",
+    "category_path": "products",
+    "text_for_embedding": "Google Play App Category products The ‘Frontdesk’ app is categorized as a product within the ‘Health & Fitness’ category on the Google Play store. What is the Google Play category for the Frontdesk app? Where is the Frontdesk app listed on Google Play? What category does the Frontdesk app belong to?",
+    "metadata": {
+      "intent_class": "factual",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "The ‘Frontdesk’ app is categorized as a product within the ‘Health & Fitness’ category on the Google Play store.",
+      "key_entities": [
+        "Frontdesk",
+        "Google Play",
+        "Health & Fitness"
+      ],
+      "question_variants": [
+        "What is the Google Play category for the Frontdesk app?",
+        "Where is the Frontdesk app listed on Google Play?",
+        "What category does the Frontdesk app belong to?"
+      ],
+      "problem_signals": [
+        "Where can I find the Frontdesk app details on Google Play?",
+        "I need to know which category this app is in."
+      ],
+      "confidence_keywords": [
+        "Google Play",
+        "Frontdesk",
+        "category",
+        "app"
+      ],
+      "source_url": "https://play.google.com/store/apps/details?id=com.devtac.frontdesk",
+      "confidence": "high",
+      "notes": "Google Play category field.",
+      "original_question": "What category is the 'Frontdesk' app listed under on Google Play?",
+      "original_answer": "Health & Fitness"
+    }
+  },
+  {
+    "id": "devtac_64",
+    "title": "Frontdesk App Update Date",
+    "category_path": "products",
+    "text_for_embedding": "Frontdesk App Update Date products The Google Play Frontdesk app's last updated date is December 8, 2024. This information is found within the app's settings, specifically the 'Updated on' field. When was the Frontdesk app last updated? What is the date of the Frontdesk app update? Get the last update date for the Frontdesk app",
+    "metadata": {
+      "intent_class": "factual",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "The Google Play Frontdesk app's last updated date is December 8, 2024. This information is found within the app's settings, specifically the 'Updated on' field.",
+      "key_entities": [
+        "Frontdesk App",
+        "Google Play"
+      ],
+      "question_variants": [
+        "When was the Frontdesk app last updated?",
+        "What is the date of the Frontdesk app update?",
+        "Get the last update date for the Frontdesk app"
+      ],
+      "problem_signals": [
+        "I need to know the app's update history",
+        "I want to check the last update time"
+      ],
+      "confidence_keywords": [
+        "update",
+        "date",
+        "last",
+        "Google Play"
+      ],
+      "source_url": "https://play.google.com/store/apps/details?id=com.devtac.frontdesk",
+      "confidence": "high",
+      "notes": "Google Play �Updated on� field.",
+      "original_question": "What is the 'Frontdesk' app's last updated date shown on Google Play?",
+      "original_answer": "Dec 8, 2024"
+    }
+  },
+  {
+    "id": "devtac_65",
+    "title": "Google Play Downloads",
+    "category_path": "products",
+    "text_for_embedding": "Google Play Downloads products Google Play displays the total number of downloads for the 'Frontdesk' app. How many downloads does the Frontdesk app have on Google Play? What is the Google Play download count for the Frontdesk app? How many times has the Frontdesk app been downloaded via Google Play?",
+    "metadata": {
+      "intent_class": "services",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "Google Play displays the total number of downloads for the 'Frontdesk' app.",
+      "key_entities": [
+        "Google Play",
+        "Frontdesk app"
+      ],
+      "question_variants": [
+        "How many downloads does the Frontdesk app have on Google Play?",
+        "What is the Google Play download count for the Frontdesk app?",
+        "How many times has the Frontdesk app been downloaded via Google Play?"
+      ],
+      "problem_signals": [
+        "download count",
+        "Frontdesk app downloads"
+      ],
+      "confidence_keywords": [
+        "Google Play",
+        "Downloads",
+        "Frontdesk App"
+      ],
+      "source_url": "https://play.google.com/store/apps/details?id=com.devtac.frontdesk",
+      "confidence": "high",
+      "notes": "Google Play downloads field.",
+      "original_question": "How many downloads does Google Play show for the 'Frontdesk' app?",
+      "original_answer": "10+"
+    }
+  },
+  {
+    "id": "devtac_66",
+    "title": "Google Play App Support Phone Number",
+    "category_path": "contact",
+    "text_for_embedding": "Google Play App Support Phone Number contact The answer provides the Google Play App support phone number, +639177948226. Where can I find the Google Play App support number? What's the phone number for the Frontdesk app? I need the Google Play App support contact.",
+    "metadata": {
+      "intent_class": "contact",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "The answer provides the Google Play App support phone number, +639177948226.",
+      "key_entities": [
+        "Google Play",
+        "App",
+        "Support Phone Number",
+        "+639177948226"
+      ],
+      "question_variants": [
+        "Where can I find the Google Play App support number?",
+        "What's the phone number for the Frontdesk app?",
+        "I need the Google Play App support contact."
+      ],
+      "problem_signals": [
+        "Find the support phone number for the App",
+        "I need to reach the Frontdesk support",
+        "I'm trying to get in touch with the Google Play Support"
+      ],
+      "confidence_keywords": [
+        "Google Play",
+        "App",
+        "Support Number",
+        "+639177948226"
+      ],
+      "source_url": "https://play.google.com/store/apps/details?id=com.devtac.frontdesk",
+      "confidence": "high",
+      "notes": "App support phone field; matches SugarCRM directory phone.",
+      "original_question": "What support phone number is listed for the 'Frontdesk' app on Google Play?",
+      "original_answer": "+639177948226"
+    }
+  },
+  {
+    "id": "devtac_67",
+    "title": "App Support Email",
+    "category_path": "contact",
+    "text_for_embedding": "App Support Email contact The provided email address is walter.garcia@devtac.com, which is the support email associated with the Frontdesk app on Google Play. What is the support email for the Frontdesk app? Where can I find the email address for the Frontdesk app? Frontdesk app support email address",
+    "metadata": {
+      "intent_class": "contact",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "explanation",
+      "solution_summary": "The provided email address is walter.garcia@devtac.com, which is the support email associated with the Frontdesk app on Google Play.",
+      "key_entities": [
+        "Frontdesk app",
+        "Google Play",
+        "Walter Garcia",
+        "devtac.com"
+      ],
+      "question_variants": [
+        "What is the support email for the Frontdesk app?",
+        "Where can I find the email address for the Frontdesk app?",
+        "Frontdesk app support email address"
+      ],
+      "problem_signals": [
+        "find support email",
+        "lookup App support",
+        "Frontdesk app email"
+      ],
+      "confidence_keywords": [
+        "support",
+        "email",
+        "Google Play",
+        "Frontdesk"
+      ],
+      "source_url": "https://play.google.com/store/apps/details?id=com.devtac.frontdesk",
+      "confidence": "high",
+      "notes": "App support email field (contains personal name; see privacy notes).",
+      "original_question": "What support email is listed for the 'Frontdesk' app on Google Play?",
+      "original_answer": "walter.garcia@devtac.com"
+    }
+  },
+  {
+    "id": "devtac_68",
+    "title": "Developer Email for DEVTAC CRM, INC.",
+    "category_path": "contact",
+    "text_for_embedding": "Developer Email for DEVTAC CRM, INC. contact The provided answer lists the developer email address for DEVTAC CRM, INC. as brian.llevado@devtac.com. Who is the email for DEVTAC CRM? DEVTAC CRM, INC. email Provide DEVTAC CRM, INC. email",
+    "metadata": {
+      "intent_class": "contact",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "contact",
+      "solution_summary": "The provided answer lists the developer email address for DEVTAC CRM, INC. as brian.llevado@devtac.com.",
+      "key_entities": [
+        "DEVTAC CRM, INC.",
+        "devtac.com"
+      ],
+      "question_variants": [
+        "Who is the email for DEVTAC CRM?",
+        "DEVTAC CRM, INC. email",
+        "Provide DEVTAC CRM, INC. email"
+      ],
+      "problem_signals": [
+        "find email address",
+        "need email",
+        "DEVTAC CRM contact"
+      ],
+      "confidence_keywords": [
+        "email",
+        "devtac.com",
+        "brian.llevado"
+      ],
+      "source_url": "https://play.google.com/store/apps/details?id=com.devtac.frontdesk",
+      "confidence": "high",
+      "notes": "Developer email field (contains personal name; see privacy notes).",
+      "original_question": "What developer email is listed for DEVTAC CRM, INC. on Google Play?",
+      "original_answer": "brian.llevado@devtac.com"
+    }
+  },
+  {
+    "id": "devtac_69",
+    "title": "Developer Address",
+    "category_path": "location",
+    "text_for_embedding": "Developer Address location DEVTAC CRM, INC. has a registered address at 1 Real Street, Barangay 58, Gaspay Compound, Sagkahan Tacloban City 6500 Philippines. Where is DEVTAC CRM, INC. located? What is the address of DEVTAC CRM, INC.? DEVTAC CRM, INC. address find DEVTAC CRM, INC. address",
+    "metadata": {
+      "intent_class": "location",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "DEVTAC CRM, INC. has a registered address at 1 Real Street, Barangay 58, Gaspay Compound, Sagkahan Tacloban City 6500 Philippines.",
+      "key_entities": [
+        "DEVTAC CRM, INC.",
+        "Gaspay Compound",
+        "Sagkahan Tacloban City"
+      ],
+      "question_variants": [
+        "Where is DEVTAC CRM, INC. located?",
+        "What is the address of DEVTAC CRM, INC.?",
+        "DEVTAC CRM, INC. address",
+        "find DEVTAC CRM, INC. address"
+      ],
+      "problem_signals": [
+        "find address",
+        "address information",
+        "DEVTAC CRM, INC. location"
+      ],
+      "confidence_keywords": [
+        "address",
+        "location",
+        "devo",
+        "crm",
+        "inc"
+      ],
+      "source_url": "https://play.google.com/store/apps/details?id=com.devtac.frontdesk",
+      "confidence": "high",
+      "notes": "Developer address field.",
+      "original_question": "What developer address is listed for DEVTAC CRM, INC. on Google Play?",
+      "original_answer": "Real Street, Barangay 58, Gaspay Compound, Sagkahan Tacloban City 6500 Philippines"
+    }
+  },
+  {
+    "id": "devtac_70",
+    "title": "DEVTAC CRM INC Phone Number",
+    "category_path": "contact",
+    "text_for_embedding": "DEVTAC CRM INC Phone Number contact The provided answer directs to the phone number of DEVTAC CRM INC, located at +63 966 633 2934. What is the phone number for DEVTAC CRM INC? Find the phone number for DEVTAC CRM INC on Google Play. Where can I find the phone number for DEVTAC CRM INC?",
+    "metadata": {
+      "intent_class": "contact",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "The provided answer directs to the phone number of DEVTAC CRM INC, located at +63 966 633 2934.",
+      "key_entities": [
+        "DEVTAC CRM INC",
+        "+63 966 633 2934"
+      ],
+      "question_variants": [
+        "What is the phone number for DEVTAC CRM INC?",
+        "Find the phone number for DEVTAC CRM INC on Google Play.",
+        "Where can I find the phone number for DEVTAC CRM INC?"
+      ],
+      "problem_signals": [
+        "find phone number",
+        "devitac CRM INC phone",
+        "need phone number"
+      ],
+      "confidence_keywords": [
+        "DEVTAC",
+        "CRM",
+        "phone number",
+        "Google Play"
+      ],
+      "source_url": "https://play.google.com/store/apps/details?id=com.devtac.frontdesk",
+      "confidence": "high",
+      "notes": "Developer phone field.",
+      "original_question": "What additional phone number is listed in the developer section for DEVTAC CRM, INC. on Google Play?",
+      "original_answer": "+63 966 633 2934"
+    }
+  },
+  {
+    "id": "devtac_71",
+    "title": "Frontdesk App Support",
+    "category_path": "web_presence",
+    "text_for_embedding": "Frontdesk App Support web_presence The website ‘app.frontdesk.asia’ is identified as the official website for application support related to the ‘Frontdesk’ application on Google Play. where can i find frontdesk support for frontdesk? what’s the support page for frontdesk on google play? frontdesk app support google play find frontdesk support on app store",
+    "metadata": {
+      "intent_class": "services",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "explanation",
+      "solution_summary": "The website ‘app.frontdesk.asia’ is identified as the official website for application support related to the ‘Frontdesk’ application on Google Play.",
+      "key_entities": [
+        "frontdesk",
+        "app",
+        "google play"
+      ],
+      "question_variants": [
+        "where can i find frontdesk support for frontdesk?",
+        "what’s the support page for frontdesk on google play?",
+        "frontdesk app support google play",
+        "find frontdesk support on app store"
+      ],
+      "problem_signals": [
+        "app support",
+        "frontdesk problem",
+        "google play issues",
+        "where to get help"
+      ],
+      "confidence_keywords": [
+        "app",
+        "support",
+        "frontdesk",
+        "google play",
+        "website"
+      ],
+      "source_url": "https://play.google.com/store/apps/details?id=com.devtac.frontdesk",
+      "confidence": "high",
+      "notes": "App support website field.",
+      "original_question": "What website is listed for app support for 'Frontdesk' on Google Play?",
+      "original_answer": "app.frontdesk.asia"
+    }
+  },
+  {
+    "id": "devtac_72",
+    "title": "Google Play App Privacy",
+    "category_path": "privacy",
+    "text_for_embedding": "Google Play App Privacy privacy The Google Play listing for the Frontdesk app explicitly states that no data is shared with third parties, confirming its privacy policy. What does the Frontdesk app say about data sharing? Does the Frontdesk app protect user data? Can I trust the Frontdesk app to not share data?",
+    "metadata": {
+      "intent_class": "factual",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "The Google Play listing for the Frontdesk app explicitly states that no data is shared with third parties, confirming its privacy policy.",
+      "key_entities": [
+        "Google Play",
+        "Frontdesk app",
+        "Privacy policy",
+        "Third parties"
+      ],
+      "question_variants": [
+        "What does the Frontdesk app say about data sharing?",
+        "Does the Frontdesk app protect user data?",
+        "Can I trust the Frontdesk app to not share data?"
+      ],
+      "problem_signals": [
+        "Data security",
+        "Privacy concerns",
+        "App privacy",
+        "User trust"
+      ],
+      "confidence_keywords": [
+        "Privacy",
+        "Data sharing",
+        "Frontdesk app",
+        "Google Play"
+      ],
+      "source_url": "https://play.google.com/store/apps/details?id=com.devtac.frontdesk",
+      "confidence": "high",
+      "notes": "Data Safety section.",
+      "original_question": "Does the Google Play listing say 'No data shared with third parties' for the 'Frontdesk' app?",
+      "original_answer": "Yes"
+    }
+  },
+  {
+    "id": "devtac_73",
+    "title": "Google Play Data Encryption",
+    "category_path": "privacy",
+    "text_for_embedding": "Google Play Data Encryption privacy The Google Play listing confirms that data is encrypted during transit for the 'Frontdesk' app.  This is a key security feature. Does the Frontdesk app use encryption while sending data? Can you tell me about data encryption on the Google Play? What security measures does the Frontdesk app have in place?",
+    "metadata": {
+      "intent_class": "factual",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "The Google Play listing confirms that data is encrypted during transit for the 'Frontdesk' app.  This is a key security feature.",
+      "key_entities": [
+        "Google Play",
+        "Frontdesk app",
+        "data encryption",
+        "transit"
+      ],
+      "question_variants": [
+        "Does the Frontdesk app use encryption while sending data?",
+        "Can you tell me about data encryption on the Google Play?",
+        "What security measures does the Frontdesk app have in place?"
+      ],
+      "problem_signals": [
+        "data security",
+        "encrypted communication",
+        "privacy concerns",
+        "app vulnerabilities"
+      ],
+      "confidence_keywords": [
+        "Google",
+        "Play",
+        "encryption",
+        "transit",
+        "Frontdesk"
+      ],
+      "source_url": "https://play.google.com/store/apps/details?id=com.devtac.frontdesk",
+      "confidence": "high",
+      "notes": "Data Safety section.",
+      "original_question": "Does the Google Play listing say data is encrypted in transit for the 'Frontdesk' app?",
+      "original_answer": "Yes"
+    }
+  },
+  {
+    "id": "devtac_74",
+    "title": "Data Deletion Restrictions",
+    "category_path": "privacy",
+    "text_for_embedding": "Data Deletion Restrictions privacy The Google Play listing indicates that data related to the 'Frontdesk' app cannot be deleted. The data safety section confirms this restriction. Can I delete data from the Frontdesk app? What is the policy on data deletion for the Frontdesk app? Is data deletion allowed for the Frontdesk app?",
+    "metadata": {
+      "intent_class": "privacy",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "The Google Play listing indicates that data related to the 'Frontdesk' app cannot be deleted. The data safety section confirms this restriction.",
+      "key_entities": [
+        "Google Play",
+        "Frontdesk app",
+        "Data deletion",
+        "Privacy"
+      ],
+      "question_variants": [
+        "Can I delete data from the Frontdesk app?",
+        "What is the policy on data deletion for the Frontdesk app?",
+        "Is data deletion allowed for the Frontdesk app?"
+      ],
+      "problem_signals": [
+        "Data deletion policies",
+        "Frontdesk app data",
+        "Privacy concerns"
+      ],
+      "confidence_keywords": [
+        "Data",
+        "Deletion",
+        "Privacy",
+        "Google Play"
+      ],
+      "source_url": "https://play.google.com/store/apps/details?id=com.devtac.frontdesk",
+      "confidence": "high",
+      "notes": "Data Safety section shows 'Data can�t be deleted'.",
+      "original_question": "Does the Google Play listing say data can�t be deleted for the 'Frontdesk' app?",
+      "original_answer": "Yes"
+    }
+  },
+  {
+    "id": "devtac_75",
+    "title": "David Caldwell",
+    "category_path": "leadership",
+    "text_for_embedding": "David Caldwell leadership According to LinkedIn posts, David Caldwell is identified as the CEO and partner for Devtac. Who is the CEO of Devtac? What is David Caldwell's role at Devtac? Find the identity of David Caldwell at Devtac Who is the leader at Devtac?",
+    "metadata": {
+      "intent_class": "leadership",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "explanation",
+      "solution_summary": "According to LinkedIn posts, David Caldwell is identified as the CEO and partner for Devtac.",
+      "key_entities": [
+        "David Caldwell",
+        "Devtac",
+        "CEO and Partner"
+      ],
+      "question_variants": [
+        "Who is the CEO of Devtac?",
+        "What is David Caldwell's role at Devtac?",
+        "Find the identity of David Caldwell at Devtac",
+        "Who is the leader at Devtac?"
+      ],
+      "problem_signals": [
+        "Find Devtac's CEO",
+        "Identify David Caldwell's role",
+        "Understand Devtac's leadership structure",
+        "What is the title of the CEO at Devtac?"
+      ],
+      "confidence_keywords": [
+        "CEO",
+        "Partner",
+        "Devtac",
+        "David Caldwell"
+      ],
+      "source_url": "https://www.linkedin.com/posts/david-caldwell-b9185723_join-devtac-in-tacloban-activity-6909067773524537344-cM8C; https://www.linkedin.com/posts/david-caldwell-b9185723_careers-opportunities-in-info-tech-devtac-activity-7031435817319309313-MnJ9",
+      "confidence": "high",
+      "notes": "LinkedIn post header identifies role.",
+      "original_question": "Who is identified as 'CEO and Partner' in publicly accessible LinkedIn posts about Devtac?",
+      "original_answer": "David Caldwell"
+    }
+  },
+  {
+    "id": "devtac_76",
+    "title": "Walter Garcia's DevTac Role",
+    "category_path": "leadership",
+    "text_for_embedding": "Walter Garcia's DevTac Role leadership According to a university conference recap, Walter Garcia was appointed President of DevTac. What is Walter Garcia's title at DevTac? Who is the president of DevTac? Describe Walter Garcia's role at DevTac What is the title of Walter Garcia's position at DevTac?",
+    "metadata": {
+      "intent_class": "leadership",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "explanation",
+      "solution_summary": "According to a university conference recap, Walter Garcia was appointed President of DevTac.",
+      "key_entities": [
+        "Walter Garcia",
+        "DevTac",
+        "President"
+      ],
+      "question_variants": [
+        "What is Walter Garcia's title at DevTac?",
+        "Who is the president of DevTac?",
+        "Describe Walter Garcia's role at DevTac",
+        "What is the title of Walter Garcia's position at DevTac?"
+      ],
+      "problem_signals": [
+        "Walter Garcia's title",
+        "DevTac President",
+        "Walter Garcia's responsibilities",
+        "who is Walter Garcia in DevTac"
+      ],
+      "confidence_keywords": [
+        "Walter Garcia",
+        "DevTac",
+        "President",
+        "title"
+      ],
+      "source_url": "https://nwssu.edu.ph/2025/07/28/shaping-tomorrow-nwssu-joins-regional-pulse-to-redefine-business-in-a-digital-age/",
+      "confidence": "medium",
+      "notes": "Credible third-party (university) source; not a company-controlled page.",
+      "original_question": "According to a university conference recap, what title is used for Walter Garcia in relation to DevTac?",
+      "original_answer": "DevTac President"
+    }
+  },
+  {
+    "id": "devtac_77",
+    "title": "VABC Conference",
+    "category_path": "public_presence",
+    "text_for_embedding": "VABC Conference public_presence The university recap details the 34th Visayas Area Business Conference (VABC) held in [city/location] where DevTac President Walter Garcia addressed attendees. What conference was the VABC conference? Where did DevTac President Garcia speak? VABC conference details",
+    "metadata": {
+      "intent_class": "factual",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "The university recap details the 34th Visayas Area Business Conference (VABC) held in [city/location] where DevTac President Walter Garcia addressed attendees.",
+      "key_entities": [
+        "Visayas Area Business Conference",
+        "Walter Garcia",
+        "DevTac"
+      ],
+      "question_variants": [
+        "What conference was the VABC conference?",
+        "Where did DevTac President Garcia speak?",
+        "VABC conference details"
+      ],
+      "problem_signals": [
+        "conference details",
+        "VABC",
+        "attendees"
+      ],
+      "confidence_keywords": [
+        "VABC",
+        "conference",
+        "business",
+        "Walter Garcia"
+      ],
+      "source_url": "https://nwssu.edu.ph/2025/07/28/shaping-tomorrow-nwssu-joins-regional-pulse-to-redefine-business-in-a-digital-age/",
+      "confidence": "medium",
+      "notes": "Conference name from university recap.",
+      "original_question": "What conference is mentioned in the university recap where DevTac President Walter Garcia spoke?",
+      "original_answer": "34th Visayas Area Business Conference (VABC)"
+    }
+  },
+  {
+    "id": "devtac_78",
+    "title": "VABC 34th Event Dates",
+    "category_path": "public_presence",
+    "text_for_embedding": "VABC 34th Event Dates public_presence The University recap details the dates for the 34th VABC event, which occurred between July 23rd and 25th, 2025. What dates did the VABC event have? When did the 34th VABC event take place? VABC event schedule",
+    "metadata": {
+      "intent_class": "factual",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "The University recap details the dates for the 34th VABC event, which occurred between July 23rd and 25th, 2025.",
+      "key_entities": [
+        "VABC",
+        "University Recap"
+      ],
+      "question_variants": [
+        "What dates did the VABC event have?",
+        "When did the 34th VABC event take place?",
+        "VABC event schedule"
+      ],
+      "problem_signals": [
+        "VABC event dates",
+        "Find VABC event dates"
+      ],
+      "confidence_keywords": [
+        "July",
+        "23",
+        "25",
+        "event dates",
+        "VABC"
+      ],
+      "source_url": "https://nwssu.edu.ph/2025/07/28/shaping-tomorrow-nwssu-joins-regional-pulse-to-redefine-business-in-a-digital-age/",
+      "confidence": "medium",
+      "notes": "Event dates from university recap.",
+      "original_question": "What were the event dates for the 34th VABC according to the university recap?",
+      "original_answer": "July 23�25, 2025"
+    }
+  },
+  {
+    "id": "devtac_79",
+    "title": "Venue Location",
+    "category_path": "public_presence",
+    "text_for_embedding": "Venue Location public_presence The 34th VABC (Veterans Academic Business Conference) was held at the Leyte Convention Center in Palo, Leyte. Where did the VABC convention take place? What venue hosted the 34th VABC? Where was the VABC conference held?",
+    "metadata": {
+      "intent_class": "factual",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "The 34th VABC (Veterans Academic Business Conference) was held at the Leyte Convention Center in Palo, Leyte.",
+      "key_entities": [
+        "VABC",
+        "Leyte Convention Center",
+        "Palo, Leyte"
+      ],
+      "question_variants": [
+        "Where did the VABC convention take place?",
+        "What venue hosted the 34th VABC?",
+        "Where was the VABC conference held?"
+      ],
+      "problem_signals": [
+        "Venue location",
+        "VABC conference venue",
+        "location of VABC event"
+      ],
+      "confidence_keywords": [
+        "Leyte Convention Center",
+        "Palo, Leyte",
+        "VABC"
+      ],
+      "source_url": "https://nwssu.edu.ph/2025/07/28/shaping-tomorrow-nwssu-joins-regional-pulse-to-redefine-business-in-a-digital-age/",
+      "confidence": "medium",
+      "notes": "Venue detail from university recap.",
+      "original_question": "Where was the 34th VABC hosted (venue) according to the university recap?",
+      "original_answer": "Leyte Convention Center, Palo, Leyte"
+    }
+  },
+  {
+    "id": "devtac_80",
+    "title": "Devtac Case Study",
+    "category_path": "customers",
+    "text_for_embedding": "Devtac Case Study customers MedEthix implemented Zoho Desk to streamline internal IT support, resulting in improved efficiency and reduced operational costs. What case study did MedEthix use? Describe MedEthix's IT support solution. MedEthix's case study details.",
+    "metadata": {
+      "intent_class": "services",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "explanation",
+      "solution_summary": "MedEthix implemented Zoho Desk to streamline internal IT support, resulting in improved efficiency and reduced operational costs.",
+      "key_entities": [
+        "MedEthix",
+        "Zoho Desk",
+        "internal IT support"
+      ],
+      "question_variants": [
+        "What case study did MedEthix use?",
+        "Describe MedEthix's IT support solution.",
+        "MedEthix's case study details."
+      ],
+      "problem_signals": [
+        "IT support efficiency",
+        "Operational costs",
+        "Internal processes"
+      ],
+      "confidence_keywords": [
+        "MedEthix",
+        "Zoho Desk",
+        "case study",
+        "IT support"
+      ],
+      "source_url": "https://devtac.com/career/",
+      "confidence": "high",
+      "notes": "Careers page 'Latest News' list includes dated case study.",
+      "original_question": "What is the title of the Devtac case study listed on the careers page dated Aug 15, 2025?",
+      "original_answer": "Streamlining Internal IT Support: How MedEthix Transformed Operations with Zoho Desk"
+    }
+  },
+  {
+    "id": "devtac_81",
+    "title": "MedEthix Case Study Date",
+    "category_path": "customers",
+    "text_for_embedding": "MedEthix Case Study Date customers The MedEthix case study entry details a date of August 15, 2025, for the case study on the careers page. What is the date of the MedEthix case study? When was the MedEthix case study published? MedEthix case study date MedEthix case study date value",
+    "metadata": {
+      "intent_class": "factual",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "The MedEthix case study entry details a date of August 15, 2025, for the case study on the careers page.",
+      "key_entities": [
+        "MedEthix",
+        "case study",
+        "careers page"
+      ],
+      "question_variants": [
+        "What is the date of the MedEthix case study?",
+        "When was the MedEthix case study published?",
+        "MedEthix case study date",
+        "MedEthix case study date value"
+      ],
+      "problem_signals": [
+        "date of case study",
+        "MedEthix case study details",
+        "find the date of case study"
+      ],
+      "confidence_keywords": [
+        "date",
+        "August 15, 2025",
+        "MedEthix"
+      ],
+      "source_url": "https://devtac.com/career/",
+      "confidence": "high",
+      "notes": "Careers page 'Latest News' list.",
+      "original_question": "What date is shown for the MedEthix case study entry on the careers page?",
+      "original_answer": "Aug 15, 2025"
+    }
+  },
+  {
+    "id": "devtac_82",
+    "title": "Devtac Case Study",
+    "category_path": "customers",
+    "text_for_embedding": "Devtac Case Study customers Integral Industrial Management Corp. provides optimization of business operations using Zoho One. What is Integral Industrial Management Corp's case study? Tell me about the Devtac case study What's the Devtac case study about?",
+    "metadata": {
+      "intent_class": "services",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "Integral Industrial Management Corp. provides optimization of business operations using Zoho One.",
+      "key_entities": [
+        "Integral Industrial Management Corp.",
+        "Zoho One"
+      ],
+      "question_variants": [
+        "What is Integral Industrial Management Corp's case study?",
+        "Tell me about the Devtac case study",
+        "What's the Devtac case study about?"
+      ],
+      "problem_signals": [
+        "case study",
+        "Devtac",
+        "business operations"
+      ],
+      "confidence_keywords": [
+        "Integral Industrial Management Corp",
+        "Zoho One"
+      ],
+      "source_url": "https://devtac.com/career/",
+      "confidence": "high",
+      "notes": "Careers page 'Latest News' list.",
+      "original_question": "What is the title of the Devtac case study listed on the careers page dated Jun 03, 2025?",
+      "original_answer": "Integral Industrial Management Corp. Optimizes Business Operations with Zoho One"
+    }
+  },
+  {
+    "id": "devtac_83",
+    "title": "Integral Industrial Management Case Study Date",
+    "category_path": "customers",
+    "text_for_embedding": "Integral Industrial Management Case Study Date customers The answer provided is the date, June 03, 2025, for a case study entry on the careers page for Integral Industrial Management Corp. What is the date on the careers page? When was the Integral Industrial Management case study entry on the careers page? What date was the case study entry on the careers page?",
+    "metadata": {
+      "intent_class": "factual",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "The answer provided is the date, June 03, 2025, for a case study entry on the careers page for Integral Industrial Management Corp.",
+      "key_entities": [
+        "Integral Industrial Management Corp",
+        "careers page"
+      ],
+      "question_variants": [
+        "What is the date on the careers page?",
+        "When was the Integral Industrial Management case study entry on the careers page?",
+        "What date was the case study entry on the careers page?"
+      ],
+      "problem_signals": [
+        "Date of case study entry",
+        "Integral Industrial Management Corp",
+        "Careers page"
+      ],
+      "confidence_keywords": [
+        "date",
+        "integral industrial management",
+        "careers page"
+      ],
+      "source_url": "https://devtac.com/career/",
+      "confidence": "high",
+      "notes": "Careers page 'Latest News' list.",
+      "original_question": "What date is shown for the Integral Industrial Management Corp. case study entry on the careers page?",
+      "original_answer": "Jun 03, 2025"
+    }
+  },
+  {
+    "id": "devtac_84",
+    "title": "Devtac Case Study",
+    "category_path": "customers",
+    "text_for_embedding": "Devtac Case Study customers The Devtac case study details a solution for streamlining post-loan processes, resulting in faster disbursement and enhanced coordination. What is the Devtac case study? Tell me about the Devtac case study Describe the Devtac case study",
+    "metadata": {
+      "intent_class": "services",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "explanation",
+      "solution_summary": "The Devtac case study details a solution for streamlining post-loan processes, resulting in faster disbursement and enhanced coordination.",
+      "key_entities": [
+        "Devtac",
+        "Case Study",
+        "Disbursement",
+        "Coordination"
+      ],
+      "question_variants": [
+        "What is the Devtac case study?",
+        "Tell me about the Devtac case study",
+        "Describe the Devtac case study"
+      ],
+      "problem_signals": [
+        "Post-loan processing",
+        "Faster disbursement",
+        "Seamless coordination",
+        "Document management"
+      ],
+      "confidence_keywords": [
+        "Devtac",
+        "case study",
+        "disbursement",
+        "coordination"
+      ],
+      "source_url": "https://devtac.com/career/",
+      "confidence": "high",
+      "notes": "Careers page 'Latest News' list.",
+      "original_question": "What is the title of the Devtac case study listed on the careers page dated Jul 03, 2025?",
+      "original_answer": "Streamlining Post-Loan Processes for Faster Disbursement and Seamless Coordination"
+    }
+  },
+  {
+    "id": "devtac_85",
+    "title": "Zoho Event Management Career Post Date",
+    "category_path": "press_and_content",
+    "text_for_embedding": "Zoho Event Management Career Post Date press_and_content The answer states that the 'What is Zoho Event Management?' post was published on October 8, 2025, on the careers page. date of Zoho Event Management post when was Zoho Event Management posted? Zoho Event Management career page date what date is the Zoho Event Management post on?",
+    "metadata": {
+      "intent_class": "factual",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "The answer states that the 'What is Zoho Event Management?' post was published on October 8, 2025, on the careers page.",
+      "key_entities": [
+        "Zoho Event Management",
+        "careers page",
+        "October 2025"
+      ],
+      "question_variants": [
+        "date of Zoho Event Management post",
+        "when was Zoho Event Management posted?",
+        "Zoho Event Management career page date",
+        "what date is the Zoho Event Management post on?"
+      ],
+      "problem_signals": [
+        "find the date of a specific post",
+        "know the posting date of Zoho Event Management"
+      ],
+      "confidence_keywords": [
+        "date",
+        "Zoho Event Management",
+        "October 2025"
+      ],
+      "source_url": "https://devtac.com/career/",
+      "confidence": "high",
+      "notes": "Careers page 'Latest News' list.",
+      "original_question": "What date is shown for the 'What is Zoho Event Management?' post on the careers page list?",
+      "original_answer": "Oct 08, 2025"
+    }
+  },
+  {
+    "id": "devtac_86",
+    "title": "Devtac post title",
+    "category_path": "press_and_content",
+    "text_for_embedding": "Devtac post title press_and_content The Devtac post dated Jul 08, 2025 is about an AI-powered CRM system, which is being discussed on the careers page. what is the title of the devtac post tell me the title of the careers page post devtac career list title",
+    "metadata": {
+      "intent_class": "services",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "The Devtac post dated Jul 08, 2025 is about an AI-powered CRM system, which is being discussed on the careers page.",
+      "key_entities": [
+        "Devtac",
+        "CRM",
+        "Careers page"
+      ],
+      "question_variants": [
+        "what is the title of the devtac post",
+        "tell me the title of the careers page post",
+        "devtac career list title"
+      ],
+      "problem_signals": [
+        "latest news",
+        "careers page",
+        "find the post title",
+        "what is the name of the post"
+      ],
+      "confidence_keywords": [
+        "devtac",
+        "crm",
+        "post",
+        "title"
+      ],
+      "source_url": "https://devtac.com/career/",
+      "confidence": "high",
+      "notes": "Careers page 'Latest News' list.",
+      "original_question": "What is the title of the Devtac post dated Jul 08, 2025 on the careers page list?",
+      "original_answer": "AI-Powered CRM: The Future of Customer Relationship Management"
+    }
+  },
+  {
+    "id": "devtac_87",
+    "title": "SEC Registration Number",
+    "category_path": "identity",
+    "text_for_embedding": "SEC Registration Number identity The provided answer lacks a SEC registration number.  Retrieving this information requires verifying it through official SEC sources.  A reliable method would be to consult the SEC’s public data portal or utilize dedicated SEC tools for confirmation. Where can I find the SEC registration number? What is the SEC registration number for this company? Please provide the SEC registration number.",
+    "metadata": {
+      "intent_class": "identity",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "identity",
+      "solution_summary": "The provided answer lacks a SEC registration number.  Retrieving this information requires verifying it through official SEC sources.  A reliable method would be to consult the SEC’s public data portal or utilize dedicated SEC tools for confirmation.",
+      "key_entities": [
+        "SEC",
+        "Registration Number"
+      ],
+      "question_variants": [
+        "Where can I find the SEC registration number?",
+        "What is the SEC registration number for this company?",
+        "Please provide the SEC registration number."
+      ],
+      "problem_signals": [
+        "Need SEC registration number",
+        "Find SEC number",
+        "SEC registration details"
+      ],
+      "confidence_keywords": [
+        "SEC",
+        "registration",
+        "number"
+      ],
+      "source_url": "https://devtac.com/; https://ph.linkedin.com/company/devtaccx",
+      "confidence": "high",
+      "notes": "Design choice: avoid inventing SEC reg number; confirm separately via SEC tools if needed.",
+      "original_question": "What SEC registration number is publicly verifiable from accessible official sources in this dataset?",
+      "original_answer": "unspecified"
+    }
+  },
+  {
+    "id": "devtac_88",
+    "title": "X Twitter Handle",
+    "category_path": "social",
+    "text_for_embedding": "X Twitter Handle social The provided answer directly states the Twitter handle associated with the Devtacrm site footer. This is a direct response to the question. What is the Twitter handle for Devtacrm? Where is the X Twitter handle for Devtacrm located? Provide the X Twitter handle for Devtacrm.",
+    "metadata": {
+      "intent_class": "factual",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "factual",
+      "solution_summary": "The provided answer directly states the Twitter handle associated with the Devtacrm site footer. This is a direct response to the question.",
+      "key_entities": [
+        "Devtacrm",
+        "Twitter",
+        "X"
+      ],
+      "question_variants": [
+        "What is the Twitter handle for Devtacrm?",
+        "Where is the X Twitter handle for Devtacrm located?",
+        "Provide the X Twitter handle for Devtacrm."
+      ],
+      "problem_signals": [
+        "Find the X Twitter handle for Devtacrm.",
+        "I need to retrieve the X Twitter handle associated with Devtacrm."
+      ],
+      "confidence_keywords": [
+        "X",
+        "Twitter",
+        "Devtacrm"
+      ],
+      "source_url": "https://devtac.com/contact-us/; https://x.com/devtaccrminc",
+      "confidence": "medium",
+      "notes": "X URL is visible; page content is hard to parse via automation.",
+      "original_question": "What is the X (Twitter) handle linked from Devtac�s site footer?",
+      "original_answer": "@devtaccrminc"
+    }
+  },
+  {
+    "id": "devtac_89",
+    "title": "YouTube Channel URL",
+    "category_path": "social",
+    "text_for_embedding": "YouTube Channel URL social The provided URL is a link to the YouTube channel hosted by Devtacrm. Where can I find the YouTube channel for Devtacrm? Provide the YouTube link for Devtacrm. What’s the YouTube URL for Devtacrm? I need the YouTube link for Devtacrm.",
+    "metadata": {
+      "intent_class": "social",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "explanation",
+      "solution_summary": "The provided URL is a link to the YouTube channel hosted by Devtacrm.",
+      "key_entities": [
+        "devtacrm",
+        "youtube"
+      ],
+      "question_variants": [
+        "Where can I find the YouTube channel for Devtacrm?",
+        "Provide the YouTube link for Devtacrm.",
+        "What’s the YouTube URL for Devtacrm?",
+        "I need the YouTube link for Devtacrm."
+      ],
+      "problem_signals": [
+        "YouTube URL",
+        "Devtacrm channel",
+        "Find YouTube link"
+      ],
+      "confidence_keywords": [
+        "youtube",
+        "devtacrm",
+        "channel",
+        "link"
+      ],
+      "source_url": "https://devtac.com/contact-us/",
+      "confidence": "medium",
+      "notes": "YouTube link appears in site footer.",
+      "original_question": "What is the YouTube channel URL linked from Devtac�s site footer?",
+      "original_answer": "https://www.youtube.com/@devtaccrm"
+    }
+  },
+  {
+    "id": "devtac_90",
+    "title": "Facebook Page URL for Devtac",
+    "category_path": "social",
+    "text_for_embedding": "Facebook Page URL for Devtac social The Facebook page URL commonly used for Devtac is https://www.facebook.com/devtacinc/. This page is used for various business-related activities. Where can I find the Facebook page for Devtac? What is the Facebook page address for Devtac? What is the URL for Devtac’s Facebook page? Please provide the Facebook page link for Devtac.",
+    "metadata": {
+      "intent_class": "social",
+      "product_scope": "Devtac",
+      "support_level": "L1",
+      "answer_type": "explanation",
+      "solution_summary": "The Facebook page URL commonly used for Devtac is https://www.facebook.com/devtacinc/. This page is used for various business-related activities.",
+      "key_entities": [
+        "Devtac",
+        "Facebook",
+        "URL"
+      ],
+      "question_variants": [
+        "Where can I find the Facebook page for Devtac?",
+        "What is the Facebook page address for Devtac?",
+        "What is the URL for Devtac’s Facebook page?",
+        "Please provide the Facebook page link for Devtac."
+      ],
+      "problem_signals": [
+        "Facebook page",
+        "Find Facebook URL",
+        "Devtac Facebook page",
+        "Get Facebook handle"
+      ],
+      "confidence_keywords": [
+        "Facebook",
+        "handle",
+        "url"
+      ],
+      "source_url": "https://www.facebook.com/devtacinc/",
+      "confidence": "low",
+      "notes": "Facebook content can be throttled; treat as a handle anchor, not the only truth source.",
+      "original_question": "What is the Facebook page URL commonly used for Devtac (as indexed on the web)?",
+      "original_answer": "https://www.facebook.com/devtacinc/"
+    }
+  }
+]
