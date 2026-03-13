@@ -1,0 +1,91 @@
+id,question,answer,source_url(s),confidence,category,notes
+1,What is the legal company name shown in the SugarCRM partner directory?,DEVTAC CRM INC.,https://www.sugarcrm.com/partners/devtaccrm/,high,identity,Vendor partner directory entry title.
+2,What is the developer name shown for the Android app 'Frontdesk'?,"DEVTAC CRM, INC.",https://play.google.com/store/apps/details?id=com.devtac.frontdesk,high,identity,Google Play developer field.
+3,In what year was Devtac founded?,2009,https://devtac.com/; https://ph.linkedin.com/company/devtaccx,high,history,Stated on Devtac website FAQ and LinkedIn company page.
+4,What industry is listed for Devtac on LinkedIn?,Software Development,https://ph.linkedin.com/company/devtaccx,high,identity,LinkedIn 'Industry' field.
+5,What company type is listed on LinkedIn for Devtac?,Privately Held,https://ph.linkedin.com/company/devtaccx,high,identity,LinkedIn 'Type' field.
+6,What is the company size range listed on LinkedIn for Devtac?,11-50 employees,https://ph.linkedin.com/company/devtaccx,medium,people,LinkedIn company-size band; can change over time.
+7,What is Devtac’s headquarters location listed on LinkedIn?,"Tacloban City, Leyte",https://ph.linkedin.com/company/devtaccx,high,location,LinkedIn 'Headquarters' field.
+8,What is the primary street address listed on LinkedIn for Devtac?,"166 Avenida Veteranos, Downtown, 2F, Tacloban City, Leyte 6500, Philippines",https://ph.linkedin.com/company/devtaccx,high,location,LinkedIn 'Primary location' address.
+9,What address is shown in the Devtac website footer contact block (Tacloban)?,"166 Avenida Veteranos, Downtown, Tacloban City, Leyte",https://devtac.com/contact-us/,high,location,Company website contact footer.
+10,What phone number is shown at the top of the Devtac homepage?,+63 954 166 0777,https://devtac.com/,high,contact,Homepage header.
+11,What email is shown at the top of the Devtac homepage?,info@devtac.com,https://devtac.com/,high,contact,Homepage header.
+12,What phone number is shown in the footer on Devtac’s contact page?,+63 954 166 0777,https://devtac.com/contact-us/,high,contact,Footer contact block.
+13,What are Devtac’s published business hours on the contact page?,"Monday to Friday, 8:00 AM – 5:00 PM",https://devtac.com/contact-us/,high,contact,FAQ/footer indicates days/hours.
+14,What timezone does Devtac reference for business hours on the contact page?,Philippine Standard Time,https://devtac.com/contact-us/,high,contact,Stated in FAQ area.
+15,What is the URL of Devtac’s contact page?,https://devtac.com/contact-us/,https://devtac.com/contact-us/,high,web_presence,Direct page URL.
+16,What is the URL of Devtac’s careers page?,https://devtac.com/career/,https://devtac.com/career/,high,web_presence,Direct page URL.
+17,What domain is used for Devtac job applications (Apply Now links)?,devtac.zohorecruit.com,https://devtac.com/career/,high,web_presence,Apply Now buttons point to Zoho Recruit domain.
+18,What domain is used for Devtac’s customer support portal link on the website?,support.devtac.asia,https://devtac.com/; https://devtac.com/contact-us/,high,web_presence,‘Customer Support’ link label.
+19,"According to Devtac’s website, what Zoho partner tier do they claim?",Zoho Premium Partner,https://devtac.com/,high,partnerships,Homepage claim.
+20,Does Devtac claim to be the only Zoho Premium Partner in the Philippines?,Yes,https://devtac.com/; https://ph.linkedin.com/company/devtaccx,high,partnerships,Stated on homepage and LinkedIn about blurb.
+21,Does LinkedIn 'About us' describe Devtac as a certified SugarCRM partner?,Yes,https://ph.linkedin.com/company/devtaccx,high,partnerships,LinkedIn about blurb.
+22,Does LinkedIn 'About us' describe Devtac as a leading provider of SuiteCRM?,Yes,https://ph.linkedin.com/company/devtaccx,high,partnerships,LinkedIn about blurb.
+23,Does Devtac’s site state it is the exclusive partner of SuiteCRM in the country?,Yes,https://devtac.com/,high,partnerships,Homepage FAQ text.
+24,Is DEVTAC CRM INC. listed as a certified Sugar Partner on SugarCRM’s site?,Yes,https://www.sugarcrm.com/partners/devtaccrm/,high,partnerships,Sugar partner directory entry.
+25,What email is listed for DEVTAC CRM INC. on the SugarCRM partner directory?,info@devtac.ph,https://www.sugarcrm.com/partners/devtaccrm/,high,contact,Sugar partner directory contact section.
+26,What phone is listed for DEVTAC CRM INC. on the SugarCRM partner directory?,+639177948226,https://www.sugarcrm.com/partners/devtaccrm/,high,contact,Sugar partner directory contact section.
+27,What website is listed for DEVTAC CRM INC. on the SugarCRM partner directory?,http://www.devtac.asia,https://www.sugarcrm.com/partners/devtaccrm/,high,web_presence,Sugar partner directory website field.
+28,What country is listed as 'Headquarters' in the SugarCRM partner directory entry?,Philippines,https://www.sugarcrm.com/partners/devtaccrm/,high,location,Sugar partner directory headquarters field.
+29,How many years of operations does the SugarCRM partner page claim (as written on that page)?,11 years,https://www.sugarcrm.com/partners/devtaccrm/,medium,history,Partner page statement; may reflect the time of writing.
+30,How many technical professionals does the SugarCRM partner page claim (as written on that page)?,40+,https://www.sugarcrm.com/partners/devtaccrm/,medium,people,Partner page statement; may change over time.
+31,How many active customers does the SugarCRM partner page claim (as written on that page)?,200+,https://www.sugarcrm.com/partners/devtaccrm/,medium,customers,Partner page claim; may change over time.
+32,Is Devtac described by Zoho as a software development and consulting company in the Booth & Partners customer story?,Yes,https://www.zoho.com/crm/customers/boothandpartners.html,high,customers,Zoho customer story text.
+33,Which company is featured in Zoho’s customer story that mentions working with Devtac?,Booth & Partners,https://www.zoho.com/crm/customers/boothandpartners.html,high,customers,Zoho customer story page.
+34,"On Devtac’s site, what year did they say the company was founded?",2009,https://devtac.com/,high,history,Homepage FAQ.
+35,"According to Devtac’s site FAQ, what kind of company was Devtac founded as?",A software development company focused on CRM solutions,https://devtac.com/,high,history,Homepage FAQ wording.
+36,"According to Devtac’s site, what type of solutions do they provide?",End-to-end business solutions,https://devtac.com/,high,services,Homepage description.
+37,Does Devtac list 'Digital Transformation Consultation' as a service?,Yes,https://devtac.com/contact-us/; https://devtac.com/career/,high,services,Service list in site footer.
+38,Does Devtac list 'CRM Development' as a service?,Yes,https://devtac.com/services/crm-development/,high,services,Service page + site footer list.
+39,Does Devtac list 'Marketing Automation Development' as a service?,Yes,https://devtac.com/contact-us/; https://devtac.com/career/,high,services,Service list in site footer.
+40,Does Devtac list 'Customer Care Development' as a service?,Yes,https://devtac.com/services/customer-care-development/,high,services,Service page + site footer list.
+41,Does Devtac list 'Web Application Development' as a service?,Yes,https://devtac.com/contact-us/; https://devtac.com/career/,high,services,Service list in site footer.
+42,Does Devtac list 'HR System Development' as a service?,Yes,https://devtac.com/contact-us/; https://devtac.com/career/,high,services,Service list in site footer.
+43,Does Devtac list 'Cloud-based Communication and Collaboration Suite' as a service?,Yes,https://devtac.com/contact-us/; https://devtac.com/career/,high,services,Service list in site footer.
+44,Does Devtac list 'Cloud-based Email Solution' as a service?,Yes,https://devtac.com/contact-us/; https://devtac.com/career/,high,services,Service list in site footer.
+45,Does Devtac list 'Mobile App Development' as a service?,Yes,https://devtac.com/contact-us/; https://devtac.com/career/,high,services,Service list in site footer.
+46,Does Devtac list 'System Integration' as a service?,Yes,https://devtac.com/contact-us/; https://devtac.com/career/,high,services,Service list in site footer.
+47,Does Devtac list 'Data Migration' as a service?,Yes,https://devtac.com/contact-us/; https://devtac.com/career/,high,services,Service list in site footer.
+48,Does Devtac list 'Managed Services' as a service?,Yes,https://devtac.com/contact-us/; https://devtac.com/career/,high,services,Service list in site footer.
+49,Does Devtac list 'Technology Training Services' as a service?,Yes,https://devtac.com/contact-us/; https://devtac.com/career/,high,services,Service list in site footer.
+50,Does Devtac list 'Technology Support and Maintenance' as a service?,Yes,https://devtac.com/contact-us/; https://devtac.com/career/,high,services,Service list in site footer.
+51,What is the name of the CRM Development feature describing tailored modules/workflows?,Bespoke Tailoring,https://devtac.com/services/crm-development/,high,services,CRM Development page.
+52,What is the name of the CRM Development feature describing scalable architecture/flexible infrastructure?,Empowering Scalability,https://devtac.com/services/crm-development/,high,services,CRM Development page.
+53,What is the name of the CRM Development feature describing protection of sensitive data and compliance?,Fortified Security,https://devtac.com/services/crm-development/,high,services,CRM Development page.
+54,What is the name of the CRM Development feature about insights for decision-making?,Data-Driven Insights,https://devtac.com/services/crm-development/,high,services,CRM Development page.
+55,What is the name of the CRM Development feature referencing training programs and support?,Excellence in Support,https://devtac.com/services/crm-development/,high,services,CRM Development page.
+56,What customer care capability is listed first on the Customer Care Development page?,Ticket Management,https://devtac.com/services/customer-care-development/,high,services,Customer Care Development page.
+57,What customer care capability refers to streamlining repetitive tasks?,Automation and Workflows,https://devtac.com/services/customer-care-development/,high,services,Customer Care Development page.
+58,"What customer care capability refers to integrating email, live chat, social media, and phone into one system?",Omnichannel Support,https://devtac.com/services/customer-care-development/,high,services,Customer Care Development page.
+59,What customer care capability refers to a self-service resource for common questions?,Knowledge Base Management,https://devtac.com/services/customer-care-development/,high,services,Customer Care Development page.
+60,What customer care capability is about insights and data-driven decisions for support operations?,Reporting and Analytics,https://devtac.com/services/customer-care-development/,high,services,Customer Care Development page.
+61,"What is the name of the Android app published by DEVTAC CRM, INC. on Google Play?",Frontdesk,https://play.google.com/store/apps/details?id=com.devtac.frontdesk,high,products,App title.
+62,What is the Android package ID of the 'Frontdesk' app?,com.devtac.frontdesk,https://play.google.com/store/apps/details?id=com.devtac.frontdesk,high,products,Google Play URL/app ID parameter.
+63,What category is the 'Frontdesk' app listed under on Google Play?,Health & Fitness,https://play.google.com/store/apps/details?id=com.devtac.frontdesk,high,products,Google Play category field.
+64,What is the 'Frontdesk' app's last updated date shown on Google Play?,"Dec 8, 2024",https://play.google.com/store/apps/details?id=com.devtac.frontdesk,high,products,Google Play ‘Updated on’ field.
+65,How many downloads does Google Play show for the 'Frontdesk' app?,10+,https://play.google.com/store/apps/details?id=com.devtac.frontdesk,high,products,Google Play downloads field.
+66,What support phone number is listed for the 'Frontdesk' app on Google Play?,+639177948226,https://play.google.com/store/apps/details?id=com.devtac.frontdesk,high,contact,App support phone field; matches SugarCRM directory phone.
+67,What support email is listed for the 'Frontdesk' app on Google Play?,walter.garcia@devtac.com,https://play.google.com/store/apps/details?id=com.devtac.frontdesk,high,contact,App support email field (contains personal name; see privacy notes).
+68,"What developer email is listed for DEVTAC CRM, INC. on Google Play?",brian.llevado@devtac.com,https://play.google.com/store/apps/details?id=com.devtac.frontdesk,high,contact,Developer email field (contains personal name; see privacy notes).
+69,"What developer address is listed for DEVTAC CRM, INC. on Google Play?","Real Street, Barangay 58, Gaspay Compound, Sagkahan Tacloban City 6500 Philippines",https://play.google.com/store/apps/details?id=com.devtac.frontdesk,high,location,Developer address field.
+70,"What additional phone number is listed in the developer section for DEVTAC CRM, INC. on Google Play?",+63 966 633 2934,https://play.google.com/store/apps/details?id=com.devtac.frontdesk,high,contact,Developer phone field.
+71,What website is listed for app support for 'Frontdesk' on Google Play?,app.frontdesk.asia,https://play.google.com/store/apps/details?id=com.devtac.frontdesk,high,web_presence,App support website field.
+72,Does the Google Play listing say 'No data shared with third parties' for the 'Frontdesk' app?,Yes,https://play.google.com/store/apps/details?id=com.devtac.frontdesk,high,privacy,Data Safety section.
+73,Does the Google Play listing say data is encrypted in transit for the 'Frontdesk' app?,Yes,https://play.google.com/store/apps/details?id=com.devtac.frontdesk,high,privacy,Data Safety section.
+74,Does the Google Play listing say data can’t be deleted for the 'Frontdesk' app?,Yes,https://play.google.com/store/apps/details?id=com.devtac.frontdesk,high,privacy,Data Safety section shows 'Data can’t be deleted'.
+75,Who is identified as 'CEO and Partner' in publicly accessible LinkedIn posts about Devtac?,David Caldwell,https://www.linkedin.com/posts/david-caldwell-b9185723_join-devtac-in-tacloban-activity-6909067773524537344-cM8C; https://www.linkedin.com/posts/david-caldwell-b9185723_careers-opportunities-in-info-tech-devtac-activity-7031435817319309313-MnJ9,high,leadership,LinkedIn post header identifies role.
+76,"According to a university conference recap, what title is used for Walter Garcia in relation to DevTac?",DevTac President,https://nwssu.edu.ph/2025/07/28/shaping-tomorrow-nwssu-joins-regional-pulse-to-redefine-business-in-a-digital-age/,medium,leadership,Credible third-party (university) source; not a company-controlled page.
+77,What conference is mentioned in the university recap where DevTac President Walter Garcia spoke?,34th Visayas Area Business Conference (VABC),https://nwssu.edu.ph/2025/07/28/shaping-tomorrow-nwssu-joins-regional-pulse-to-redefine-business-in-a-digital-age/,medium,public_presence,Conference name from university recap.
+78,What were the event dates for the 34th VABC according to the university recap?,"July 23–25, 2025",https://nwssu.edu.ph/2025/07/28/shaping-tomorrow-nwssu-joins-regional-pulse-to-redefine-business-in-a-digital-age/,medium,public_presence,Event dates from university recap.
+79,Where was the 34th VABC hosted (venue) according to the university recap?,"Leyte Convention Center, Palo, Leyte",https://nwssu.edu.ph/2025/07/28/shaping-tomorrow-nwssu-joins-regional-pulse-to-redefine-business-in-a-digital-age/,medium,public_presence,Venue detail from university recap.
+80,"What is the title of the Devtac case study listed on the careers page dated Aug 15, 2025?",Streamlining Internal IT Support: How MedEthix Transformed Operations with Zoho Desk,https://devtac.com/career/,high,customers,Careers page 'Latest News' list includes dated case study.
+81,What date is shown for the MedEthix case study entry on the careers page?,"Aug 15, 2025",https://devtac.com/career/,high,customers,Careers page 'Latest News' list.
+82,"What is the title of the Devtac case study listed on the careers page dated Jun 03, 2025?",Integral Industrial Management Corp. Optimizes Business Operations with Zoho One,https://devtac.com/career/,high,customers,Careers page 'Latest News' list.
+83,What date is shown for the Integral Industrial Management Corp. case study entry on the careers page?,"Jun 03, 2025",https://devtac.com/career/,high,customers,Careers page 'Latest News' list.
+84,"What is the title of the Devtac case study listed on the careers page dated Jul 03, 2025?",Streamlining Post-Loan Processes for Faster Disbursement and Seamless Coordination,https://devtac.com/career/,high,customers,Careers page 'Latest News' list.
+85,What date is shown for the 'What is Zoho Event Management?' post on the careers page list?,"Oct 08, 2025",https://devtac.com/career/,high,press_and_content,Careers page 'Latest News' list.
+86,"What is the title of the Devtac post dated Jul 08, 2025 on the careers page list?",AI-Powered CRM: The Future of Customer Relationship Management,https://devtac.com/career/,high,press_and_content,Careers page 'Latest News' list.
+87,What SEC registration number is publicly verifiable from accessible official sources in this dataset?,unspecified,https://devtac.com/; https://ph.linkedin.com/company/devtaccx,high,identity,Design choice: avoid inventing SEC reg number; confirm separately via SEC tools if needed.
+88,What is the X (Twitter) handle linked from Devtac’s site footer?,@devtaccrminc,https://devtac.com/contact-us/; https://x.com/devtaccrminc,medium,social,X URL is visible; page content is hard to parse via automation.
+89,What is the YouTube channel URL linked from Devtac’s site footer?,https://www.youtube.com/@devtaccrm,https://devtac.com/contact-us/,medium,social,YouTube link appears in site footer.
+90,What is the Facebook page URL commonly used for Devtac (as indexed on the web)?,https://www.facebook.com/devtacinc/,https://www.facebook.com/devtacinc/,low,social,"Facebook content can be throttled; treat as a handle anchor, not the only truth source."
